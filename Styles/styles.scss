@@ -1,33 +1,70 @@
 $backgroundcolor: #0a0a0a;
-$textcolor: #ffffff;
+$textcolor: #fff;
 $color2: #d3e97a;
-@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap); //font for the title
-@import url(https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap); //font for the paragraph
-@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap); //font for button
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
 
-body{
-    background-color: $backgroundcolor;
-    .main{
-        padding: 20px 60px 24px 60px;
-        color: $textcolor;
-    }
-    .main h2{
-        font-family: 'Bebas Neue';
-        font-weight: 400;
-        font-size: 32px;
-        width: 1440px;
-        height: 96px;
-        border-bottom: 1px;
-        justify-content: space-between;
-        line-height: 48px;
-        letter-spacing: -1;
-        
-    }
-    .text ul li a {
+body {
+  background-color: $backgroundcolor;
+
+  .main {
+    padding: 20px 60px 24px 60px;
+    color: $textcolor;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main h2 {
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 32px;
+    width: 1440px;
+    height: 96px;
+    border-bottom: 1px;
+    justify-content: space-between;
+    line-height: 48px;
+    letter-spacing: -1;
+    margin: 0;
+  }
+
+  .text {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 32px;
+    flex-direction: row;
+    align-items: center;
+
+    ul {
+      display: flex;
+      flex-direction: row;
+      padding: 0;
+      margin: 0;
+      align-items: center;
+      
+      li {
+        margin-right: 10px;
         list-style: none;
-        text-decoration: none;
         display: flex;
-        flex-direction: row;
+        align-items: center;
 
+        a {
+          text-decoration: none;
+          color: $textcolor;
+        }
+      }
     }
+  }
+}
+      
+.home2 img {
+    width: 600px;
+    height: 663px;
+    border-radius: 25px;
+    margin-right: 20px;
+    top: 20px;
+    right: 56px; 
+    float: right; 
+    position: relative; 
 }

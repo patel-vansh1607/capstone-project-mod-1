@@ -6,7 +6,9 @@ body {
 }
 body .main {
   padding: 20px 60px 24px 60px;
-  color: #ffffff;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
 }
 body .main h2 {
   font-family: "Bebas Neue";
@@ -18,12 +20,43 @@ body .main h2 {
   justify-content: space-between;
   line-height: 48px;
   letter-spacing: -1;
+  margin: 0;
 }
-body .text ul li a {
+body .text {
   list-style: none;
-  text-decoration: none;
+  padding: 0;
+  display: flex;
+  gap: 32px;
+  flex-direction: row;
+  align-items: center;
+}
+body .text ul {
   display: flex;
   flex-direction: row;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+body .text ul li {
+  margin-right: 10px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+body .text ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.home2 img {
+  width: 600px;
+  height: 663px;
+  border-radius: 25px;
+  margin-right: 20px;
+  top: 20px;
+  right: 56px;
+  float: right;
+  position: relative;
 }
 
 /*# sourceMappingURL=styles.css.map */
