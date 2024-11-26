@@ -19,5 +19,11 @@ body .main h2 {
   line-height: 48px;
   letter-spacing: -1;
 }
+body .text ul li a {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+}
 
 /*# sourceMappingURL=styles.css.map */
