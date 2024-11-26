@@ -78,3 +78,18 @@ body .text ul li a {
     font-family: "Manrope", sans-serif;
     padding-left: 90px;
 }
+.button{
+    padding-top: 45px;
+    padding-left: 90px;
+}
+.contact-me{
+    background-color: #d3e97a;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: "Manrope";
+    font-weight: bold;
+    
+}
