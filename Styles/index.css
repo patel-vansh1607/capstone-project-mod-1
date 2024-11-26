@@ -51,7 +51,7 @@ body .text ul li a {
 
 .home2 img {
   width: 600px;
-  height: 663px;
+  height: 800px;
   border-radius: 25px;
   margin-right: 20px;
   top: -130px;
@@ -92,4 +92,32 @@ body .text ul li a {
     font-family: "Manrope";
     font-weight: bold;
     
+}
+
+.projectsarea p {
+  color: #ffffff;
+  width: 464px;
+  height: 76px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 76px;
+  padding-left: 90px;
+}
+.projectsarea p2{
+  color: #ffffff;
+  width: 600px;
+  height: 54px;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 90px;
+}
+.projectsarea p3{
+  color: #ffffff;
+  width: 600px;
+  height: 54px;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 90px;
 }
