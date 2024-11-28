@@ -4,6 +4,11 @@
 @import url(https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap);
 body {
   background-color: #0a0a0a;
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;  /* i have added a fade in to my whole page */
 }
 body .main {
   padding: 20px 60px 24px 60px;
@@ -66,21 +71,21 @@ body .text ul li a {
     font-family: "Bebas Neue";
     font-weight: 400;
     font-size: 101px;
-    padding-left: 90px;
+    padding-left: 65px;
 }
 .home2 p2{
     color: #fff;
     font-family: "Manrope", sans-serif;
-    padding-left: 90px;
+    padding-left: 65px;
 }
 .home2 p3{
     color: #fff;
     font-family: "Manrope", sans-serif;
-    padding-left: 90px;
+    padding-left: 65px;
 }
 .button{
     padding-top: 45px;
-    padding-left: 90px;
+    padding-left: 65px;
 }
 .contact-me{
     background-color: #d3e97a;
@@ -102,7 +107,7 @@ body .text ul li a {
   font-family: "Bebas Neue";
   font-weight: 400;
   font-size: 76px;
-  padding-left: 90px;
+  padding-left: 65px;
 
 }
 .projectsarea p2{
@@ -112,7 +117,7 @@ body .text ul li a {
   font-family: "Manrope";
   font-weight: 400;
   font-size: 18px;
-  padding-left: 90px;
+  padding-left: 65px;
 }
 .projectsarea p3{
   color: #ffffff;
@@ -121,6 +126,45 @@ body .text ul li a {
   font-family: "Manrope";
   font-weight: 400;
   font-size: 18px;
-  padding-left: 90px;
-  
+  padding-left: 65px;
+}
+
+.container1 {
+  width: 100%;
+  width: 1224px; 
+  height: 2040px;
+  opacity: 100; 
+  display: flex; 
+  border: 1px solid #ccc;  
+  margin-left: 65px;
+  margin-right: auto;
+  margin-top: 54px;
+  box-sizing: border-box; 
+}
+
+
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-ms-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
