@@ -148,7 +148,7 @@ body .text ul li a {
   width: 700px;
   height: 400px;
   padding: 40px;
-  border-radius: 12px;
+  border-radius: 20px;
   gap: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 
@@ -161,19 +161,26 @@ body .text ul li a {
 
 }
 
-.container1 h3{
+.textdiv1 h2{
   color: #ffffff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 22px;
   padding-left: 100px;
 }
+.textdiv1 h3{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 19px;
+  padding-left: 100px;
+}
 
-.container1 p{
+.textdiv1 p{
   color: #ffffff;
   font-family: "Manrope";
   font-weight: 400;
-  font-size: 18px;
+  font-size: 10px;
   padding-left: 100px;
   display: flex;
   flex-direction: row;
