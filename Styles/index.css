@@ -134,13 +134,32 @@ body .text ul li a {
   width: 1224px; 
   height: 2040px;
   opacity: 100; 
-  display: flex; 
-  border: 1px solid #ccc;  
+  display: flex;  
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
   box-sizing: border-box; 
 }
+
+.projectcard1{
+  display: flex;
+  background-color: #1a1a1a;
+  color: #fff;
+  width: 500px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 12px;
+  gap: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+
+}
+
+/* .projectcard1 img{
+  width: 1600px;
+  height: auto;
+  border-radius: 10px;
+
+} */
 
 
 
