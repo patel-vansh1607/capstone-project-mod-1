@@ -158,13 +158,17 @@ body .text ul li a {
   align-items: center;
   justify-content: center;
   border-radius: 20px;
+  transition: transform .2s;
 
+}
+.projectcard1 img:hover{
+  transform: scale(1.1);
 }
 .textdiv1{
   display: flex;
-  flex-direction: column; /* Stack the text and line vertically */
-  align-items: flex-start; /* Align text and line to the left */
-  gap: 8px; /* Space between text and line */
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 8px; 
 }
 
 .textdiv1 h2{
@@ -198,9 +202,21 @@ body .text ul li a {
     border: 1px solid;
     width: 80%;
     top: -30px;
-    margin-left: 97px;  /* Adjust this percentage for left spacing */
-    margin-right: 5%; /* Adjust this percentage for right spacing */
+    margin-left: 97px; 
+    margin-right: 5%; 
     position: relative;
+}
+.textdiv1 p2{
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 100px;
+  text-align: left;
+  color: #f1f1f1;
+  top: -200px;
+  margin-top: -30px;
+
+
 }
 @keyframes fadeIn {
   0% { opacity: 0; }
