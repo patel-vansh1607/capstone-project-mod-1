@@ -185,7 +185,14 @@ body .text ul li a {
   display: flex;
   flex-direction: row;
 }
+ .textdiv1 hr{
+    color: #484848;
+    border: 1px solid;
+    width: 70%;
+    margin: 0 auto;
+    right: 10px;
 
+ }
 
 @keyframes fadeIn {
   0% { opacity: 0; }
