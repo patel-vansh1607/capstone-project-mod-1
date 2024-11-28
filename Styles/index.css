@@ -213,11 +213,57 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  top: -200px;
   margin-top: -30px;
-
-
 }
+
+.textdiv1 p3{
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 400px;
+  text-align: left;
+  color: #f1f1f1;
+  margin-top: -30px;
+}
+.textdiv1 hr2 {
+  color: #484848;
+  border: 1px solid;
+  width: 80%;
+  top: 10px;
+  margin-left: 97px; 
+  margin-right: 5%;
+  position: relative;
+  margin-bottom: 30px;
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
