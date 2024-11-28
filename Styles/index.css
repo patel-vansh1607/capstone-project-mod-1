@@ -145,7 +145,7 @@ body .text ul li a {
   display: flex;
   background-color: #1a1a1a;
   color: #fff;
-  width: 500px;
+  width: 700px;
   height: 400px;
   padding: 40px;
   border-radius: 12px;
@@ -154,13 +154,30 @@ body .text ul li a {
 
 }
 
-/* .projectcard1 img{
-  width: 1600px;
-  height: auto;
-  border-radius: 10px;
+.projectcard1 img {
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
 
-} */
+}
 
+.container1 h3{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 22px;
+  padding-left: 100px;
+}
+
+.container1 p{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 100px;
+  display: flex;
+  flex-direction: row;
+}
 
 
 @keyframes fadeIn {
