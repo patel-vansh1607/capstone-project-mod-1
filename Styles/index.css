@@ -496,6 +496,13 @@ body .text ul li a {
 
 }
 
+.projectcard3 img {
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  transition: transform .2s;
+
+}
 
 
 
