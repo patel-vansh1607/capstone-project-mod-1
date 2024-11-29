@@ -526,7 +526,14 @@ body .text ul li a {
   margin: 0;
 }
 
-
+.textdiv3 p{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 11px;
+  padding-left: 100px;
+  text-align: left;
+}
 
 
 
