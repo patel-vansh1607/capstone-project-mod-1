@@ -483,7 +483,18 @@ body .text ul li a {
   margin-top: 54px;
   box-sizing: border-box; 
 }
+.projectcard3 {
+  display: flex;
+  background-color: #1a1a1a;
+  color: #fff;
+  width: 700px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 20px;
+  gap: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 
+}
 
 
 
