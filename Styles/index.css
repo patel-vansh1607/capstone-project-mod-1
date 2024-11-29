@@ -676,7 +676,7 @@ body .text ul li a {
 }
  .p3{
   font-family: "Manrope";
-  color: #f1f1f1;
+  color: #c7c7c7;
   margin-top: -400px;
   font-size: 18px;
   font-weight: 500;
@@ -689,8 +689,7 @@ body .text ul li a {
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
-  padding-left: 230px;
-  margin-top: -33px;
+  margin-left: 595px;
   transition: transform .2s;
 
 }
