@@ -695,6 +695,10 @@ body .text ul li a {
 
 }
 
+.moreabt1:hover {
+  text-decoration: none;
+  transform: scale(1.2);
+}
 
 
 
