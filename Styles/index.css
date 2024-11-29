@@ -327,6 +327,13 @@ body .text ul li a {
   transform: scale(1.1);
 }
 
+.textdiv2{
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 8px; 
+}
+
 
 
 
