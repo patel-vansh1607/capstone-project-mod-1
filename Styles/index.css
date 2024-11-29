@@ -467,6 +467,7 @@ body .text ul li a {
   gap: 2px;
   padding-left: 100px;
 }
+
 .viewproject:hover {
   text-decoration: none;
   transform: scale(1.2);
