@@ -504,7 +504,9 @@ body .text ul li a {
 
 }
 
-
+.projectcard3 img:hover{
+  transform: scale(1.1);
+}
 
 
 
