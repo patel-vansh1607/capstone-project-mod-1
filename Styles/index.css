@@ -674,7 +674,14 @@ body .text ul li a {
   font-size: 32px;
   font-weight: 500;
 }
-
+ .p3{
+  font-family: "Manrope";
+  color: #f1f1f1;
+  margin-top: -400px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 595px;
+ }
 
 
 
