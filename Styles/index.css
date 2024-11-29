@@ -642,6 +642,10 @@ body .text ul li a {
   height: 20px;
 }
 
+.hr10{
+  border: 1px solid #484848; 
+  width: 100%;
+}
 
 
 
