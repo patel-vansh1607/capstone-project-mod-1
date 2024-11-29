@@ -632,6 +632,10 @@ body .text ul li a {
   transition: transform .2s;
 }
 
+.seegithub1:hover {
+  text-decoration: none;
+  transform: scale(1.2);
+}
 
 
 
