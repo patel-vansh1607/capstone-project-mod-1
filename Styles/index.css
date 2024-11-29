@@ -334,7 +334,14 @@ body .text ul li a {
   gap: 8px; 
 }
 
-
+.textdiv2 h2{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 22px;
+  padding-left: 100px;
+  margin: 0;
+}
 
 
 
