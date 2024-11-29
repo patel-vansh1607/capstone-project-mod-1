@@ -274,7 +274,23 @@ body .text ul li a {
   transform: scale(1.2);
 }
 
-
+.seegithub{
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 700;
+  color: #d3e97a;
+  gap: 2px;
+  padding-left: 230px;
+  margin-top: -33px;
+}
+.seegithub:hover {
+  text-decoration: none;
+  transform: scale(1.2);
+}
+.seegithub img {
+  width: 20px;
+  height: 20px;
+}
 
 
 
