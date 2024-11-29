@@ -621,6 +621,16 @@ body .text ul li a {
   text-decoration: none;
   transform: scale(1.2);
 }
+.seegithub1{
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 700;
+  color: #d3e97a;
+  gap: 2px;
+  padding-left: 230px;
+  margin-top: -33px;
+  transition: transform .2s;
+}
 
 
 
