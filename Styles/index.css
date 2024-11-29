@@ -419,6 +419,16 @@ body .text ul li a {
   margin-left: 400px;
   
 }
+
+.hr3{
+  color: #484848;
+  border: 1px solid;
+  width: 80%;
+  top: -5px;
+  margin-left: 97px; 
+  margin-right: 5%; 
+  position: relative; 
+}
  
 
 
