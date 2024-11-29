@@ -750,32 +750,12 @@ body .text ul li a {
  }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.p1{
-  color: #ffffff;
-  width: 464px;
-  height: 76px;
-  font-family: "Bebas Neue";
-  font-weight: 400;
-  font-size: 76px;
-  margin-top: 500px;
-  padding-left: 65px;
+.p22 a{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #D3E97A;  
+  color: #c7c7c7;
 }
-
-
 
 
 
