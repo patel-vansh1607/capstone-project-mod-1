@@ -704,6 +704,16 @@ body .text ul li a {
   margin-top: 350px; 
 }
 
+.container5{
+  width: 1200px; 
+  height: 600px;
+  opacity: 100; 
+  display: flex;  
+  margin-left: 65px;
+  margin-right: auto;
+  margin-top: 54px;
+  box-sizing: border-box; 
+}
 
 @keyframes fadeIn {
   0% { opacity: 0; }
