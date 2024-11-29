@@ -391,17 +391,19 @@ body .text ul li a {
 /*webkit animation */
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 6px;
+  border-radius: 7px;
 }
 
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: none;
 }
  
 
 ::-webkit-scrollbar-thumb {
-  background: #888; 
+  background: #d1c6c6; 
+  border-radius: 6px;
 }
 
 
