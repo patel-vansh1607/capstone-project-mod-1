@@ -683,7 +683,17 @@ body .text ul li a {
   margin-left: 595px;
  }
 
+.moreabt1{
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 700;
+  color: #d3e97a;
+  gap: 2px;
+  padding-left: 230px;
+  margin-top: -33px;
+  transition: transform .2s;
 
+}
 
 
 
