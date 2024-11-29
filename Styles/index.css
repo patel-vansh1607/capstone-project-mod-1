@@ -734,7 +734,12 @@ body .text ul li a {
 
 }
 
-
+.p21 a{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #D3E97A;  
+  color: #c7c7c7;
+}
 
 
 
