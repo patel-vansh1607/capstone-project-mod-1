@@ -647,7 +647,16 @@ body .text ul li a {
   width: 100%;
 }
 
-
+.container4{
+  width: 1200px; 
+  height: 600px;
+  opacity: 100; 
+  display: flex;  
+  margin-left: 65px;
+  margin-right: auto;
+  margin-top: 54px;
+  box-sizing: border-box; 
+}
 
 
 
