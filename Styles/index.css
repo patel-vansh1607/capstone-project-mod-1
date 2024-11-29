@@ -657,8 +657,7 @@ body .text ul li a {
   margin-top: 54px;
   box-sizing: border-box; 
 }
-
-.container4 p{
+.p1{
   color: #ffffff;
   width: 464px;
   height: 76px;
@@ -668,6 +667,13 @@ body .text ul li a {
   padding-left: 65px;
 }
 
+.p2{
+  font-family: "Manrope";
+  color: #f1f1f1;
+  margin-top: 90px;
+  font-size: 32px;
+  font-weight: 500;
+}
 
 
 
