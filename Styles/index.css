@@ -306,17 +306,26 @@ body .text ul li a {
   display: flex;
   background-color: #1a1a1a;
   color: #fff;
-  width: 700px;
+  width: 669px;
   height: 400px;
   padding: 40px;
   border-radius: 20px;
   gap: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  align-content: center;
+  justify-content: center;
 
 }
 
+.projectcard2 img {
+  border-radius: 20px;
+  transition: transform .2s;
 
+}
 
+.projectcard2 img:hover{
+  transform: scale(1.1);
+}
 
 
 
