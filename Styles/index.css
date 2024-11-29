@@ -359,6 +359,15 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
+.textdiv2 hr {
+  color: #484848;
+  border: 1px solid;
+  width: 80%;
+  top: -30px;
+  margin-left: 97px; 
+  margin-right: 5%; 
+  position: relative;
+}
 
 
 
