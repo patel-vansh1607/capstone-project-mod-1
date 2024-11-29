@@ -351,7 +351,14 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
-
+.textdiv2 h3{
+  color: #ffffff;
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 19px;
+  padding-left: 100px;
+  text-align: left;
+}
 
 
 
