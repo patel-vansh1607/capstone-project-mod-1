@@ -266,6 +266,7 @@ body .text ul li a {
   color: #d3e97a;
   gap: 2px;
   padding-left: 100px;
+  transition: transform .2s;
 
 }
 .livedemobtn:hover {
@@ -281,6 +282,7 @@ body .text ul li a {
   gap: 2px;
   padding-left: 230px;
   margin-top: -33px;
+  transition: transform .2s;
 }
 .seegithub:hover {
   text-decoration: none;
@@ -466,6 +468,7 @@ body .text ul li a {
   color: #d3e97a;
   gap: 2px;
   padding-left: 100px;
+   transition: transform .2s;
 }
 
 .viewproject:hover {
@@ -508,7 +511,12 @@ body .text ul li a {
   transform: scale(1.1);
 }
 
-
+.textdiv3{
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 8px; 
+}
 
 
 
