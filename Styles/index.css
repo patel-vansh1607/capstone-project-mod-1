@@ -658,6 +658,15 @@ body .text ul li a {
   box-sizing: border-box; 
 }
 
+.container4 p{
+  color: #ffffff;
+  width: 464px;
+  height: 76px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 76px;
+  padding-left: 65px;
+}
 
 
 
