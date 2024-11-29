@@ -752,6 +752,38 @@ body .text ul li a {
 
 
 
+.p1{
+  color: #ffffff;
+  width: 464px;
+  height: 76px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 76px;
+  margin-top: 500px;
+  padding-left: 65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
