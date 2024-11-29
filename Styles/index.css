@@ -698,8 +698,11 @@ body .text ul li a {
   text-decoration: none;
   transform: scale(1.2);
 }
-
-
+.hr11 {
+  border: 1px solid #484848;
+  width: 100%;
+  margin-top: 350px; 
+}
 
 
 @keyframes fadeIn {
