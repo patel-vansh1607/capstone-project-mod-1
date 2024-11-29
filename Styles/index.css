@@ -564,7 +564,18 @@ body .text ul li a {
   margin-top: -29px;
 }
 
-
+.hr2 {
+  color: #484848;
+  border: 1px solid;
+  width: 80%;
+  top: 10px;
+  margin-left: 97px; 
+  margin-right: 5%;
+  position: relative;
+  margin-bottom: 30px;
+  clear: both;
+  top: -45px;
+}
 
 
 
