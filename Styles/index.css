@@ -706,7 +706,7 @@ body .text ul li a {
 
 .container5{
   width: 1200px; 
-  height: 1222px;
+  height: 500px;
   opacity: 100; 
   display: flex;  
   margin-left: 65px;
@@ -788,8 +788,10 @@ input[type=text], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  background-color: #1a1a1a;
 }
-input[type=text1], select, textarea {
+
+#message{
   width: 600px;
   height: 156px;
   padding: 12px;
@@ -799,8 +801,8 @@ input[type=text1], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
+  background-color: #1a1a1a;
 }
-
 
 
 
