@@ -757,7 +757,12 @@ body .text ul li a {
   color: #c7c7c7;
 }
 
-
+.iconcon{
+  width: 200px;
+  height: 32px;
+  gap: 24px;
+  padding-left: 65px;
+}
 
 
 
