@@ -16,6 +16,7 @@ body .main {
   display: flex;
   flex-direction: column;
 }
+
 body .main h2 {
   font-family: "Bebas Neue";
   font-weight: 400;
