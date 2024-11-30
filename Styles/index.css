@@ -767,19 +767,22 @@ body .text ul li a {
 .iconcon img{
   width: 32px;
   height: 32px;
+
 }
 
 .contactform{
   width: 600px;
   height: 611px;
-  margin-top: 54px
+  margin-top: 54px;
+  font-family: "Manrope";
+  color: #c7c7c7;
 }
 
 input[type=text], select, textarea {
   width: 600px;
   height: 51px;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 1px;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
@@ -790,7 +793,7 @@ input[type=text1], select, textarea {
   width: 600px;
   height: 156px;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #1a1a1a;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
