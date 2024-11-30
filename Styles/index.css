@@ -831,6 +831,9 @@ input[type=text], select, textarea {
   background-color: #d0d6b8;
 }
 
+::placeholder{
+  font-family: "Manrope";
+}
 
 
 
