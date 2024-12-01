@@ -234,8 +234,19 @@ body .text ul li {
   font-family: "Manrope";
   color: #c7c7c7;
   font-size: 18px;
-  font-weight: 500;
-  margin-left: 700px;
+  font-weight: 800;
+  margin-left: 650px;
   position: relative;
-  top: 30px;
+  top: -160px;
+
+}
+
+.p33{
+  text-align: right;
+  font-family: "Manrope";
+  color: #c7c7c7;
+  font-size: 18px;
+  position: relative;
+  bottom: 200px;
+  
 }
