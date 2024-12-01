@@ -309,3 +309,139 @@ top: -40px;
   top: -30px;
   left: -7px;
  }
+ .container5 {
+  width: 1200px;
+  height: 650px;
+  opacity: 100;
+  display: flex;
+  margin-left: 65px;
+  margin-right: auto;
+  margin-top: 54px;
+  box-sizing: border-box;
+}
+
+.p20 {
+  color: #fff;
+  width: 464px;
+  height: 76px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 76px;
+  padding-left: 65px;
+}
+
+.p21 {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 18px;
+  color: #c7c7c7;
+  margin-left: 65px;
+  margin-top: -50px;
+}
+
+.p21 a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #d3e97a;
+  color: #c7c7c7;
+}
+
+.p22 {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 18px;
+  color: #c7c7c7;
+  margin-left: 65px;
+  margin-top: -10px;
+}
+
+.p22 a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #d3e97a;
+  color: #c7c7c7;
+}
+
+.iconcon {
+  width: 200px;
+  height: 32px;
+  gap: 24px;
+  padding-left: 65px;
+}
+
+.iconcon img {
+  width: 32px;
+  height: 32px;
+}
+
+.contactform {
+  float: right;
+  position: relative;
+  top: -600px;
+  width: 600px;
+  height: 500px;
+  margin-top: 54px;
+  font-family: "Manrope";
+  color: #c7c7c7;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 600px;
+  height: 51px;
+  padding: 12px;
+  border: 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #1a1a1a;
+}
+
+input[type="text"] {
+  color: #a7a7a7;
+}
+
+#message {
+  width: 600px;
+  height: 156px;
+  padding: 12px;
+  border: 1px solid #1a1a1a;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #1a1a1a;
+}
+
+.footer-bottom {
+  color: #a7a7a7;
+  font-family: "Manrope";
+  font-size: 16px;
+  font-weight: 500;
+  width: 160px;
+  height: 26px;
+  margin-left: 65px;
+  margin-top: 330px;
+}
+
+.contactform a {
+
+  text-decoration: none;
+  color: #1a1a1a;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background-color: #d3e97a;
+  font-family: "Manrope";
+  font-weight: bolder;
+  transition: background-color 0.3s ease;
+  position: relative;
+
+}
+
+.contactform a:hover {
+  background-color: #d0d6b8;
+}
