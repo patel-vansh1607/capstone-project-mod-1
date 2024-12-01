@@ -57,4 +57,59 @@ body {
     text-decoration: none;
     color: #fff;
   }
+  .container1{
+    width: 1200px; 
+    height: 600px;
+    opacity: 100; 
+    display: flex;  
+    margin-left: 65px;
+    margin-right: auto;
+    margin-top: 54px;
+    box-sizing: border-box; 
+  }
+  .p1{
+    color: #ffffff;
+    width: 464px;
+    height: 76px;
+    font-family: "Bebas Neue";
+    font-weight: 400;
+    font-size: 76px;
+    padding-left: 65px;
+  }
   
+  .p2{
+    font-family: "Manrope";
+    color: #f1f1f1;
+    margin-top: 90px;
+    font-size: 32px;
+    font-weight: 500;
+  }
+   .p3{
+    font-family: "Manrope";
+    color: #c7c7c7;
+    margin-top: -400px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 595px;
+   }
+  
+  .moreabt1{
+    font-family: "Manrope";
+    font-size: 16px;
+    font-weight: 700;
+    color: #d3e97a;
+    gap: 2px;
+    margin-left: 595px;
+    transition: transform .2s;
+  
+  }
+  
+  .moreabt1:hover {
+    text-decoration: none;
+    transform: scale(1.2);
+  }
+  .hr11 {
+    border: 1px solid #484848;
+    width: 100%;
+    margin-top: 350px; 
+  }
