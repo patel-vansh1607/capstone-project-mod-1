@@ -232,9 +232,9 @@ body .text ul li {
 
 .p32 {
   font-family: "Manrope";
-  color: #c7c7c7;
+  color: #ffffff;
   font-size: 18px;
-  font-weight: 800;
+  font-weight: 500;
   margin-left: 650px;
   position: relative;
   top: -160px;
@@ -248,5 +248,14 @@ body .text ul li {
   font-size: 18px;
   position: relative;
   bottom: 200px;
-  
+
+}
+.p34{
+  font-family: "Manrope";
+  color: #c7c7c7;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 650px;
+  position: relative;
+  top: -160px;
 }
