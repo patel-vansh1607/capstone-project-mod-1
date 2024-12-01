@@ -259,3 +259,29 @@ body .text ul li {
   position: relative;
   top: -160px;
 }
+.container7 {
+  width: 100%;
+  max-width: 1224px;
+  height: 533px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+.p35{
+  font-family: "Manrope";
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  position: relative;
+  left: 645px;
+}
+
+.p36{
+  text-align: right;
+  font-family: "Manrope";
+  color: #c7c7c7;
+  font-size: 18px;
+  position: relative;
+ top: -44px;
+
+}
