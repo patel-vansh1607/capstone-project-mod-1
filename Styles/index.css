@@ -791,6 +791,10 @@ input[type=text], select, textarea {
   resize: vertical;
   background-color: #1a1a1a;
 }
+input[type="text"] {
+  color: #a7a7a7;
+}
+
 
 #message{
   width: 600px;
@@ -833,6 +837,7 @@ input[type=text], select, textarea {
 
 ::placeholder{
   font-family: "Manrope";
+  color: #a7a7a7;
 }
 
 
