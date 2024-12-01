@@ -17,7 +17,7 @@ body .main {
   flex-direction: column;
 }
 
-body .main h2 {
+.text h2 {
   font-family: "Bebas Neue";
   font-weight: 400;
   font-size: 32px;
@@ -28,14 +28,16 @@ body .main h2 {
   line-height: 48px;
   letter-spacing: -1;
   margin: 0;
+  position: relative;
+  top: 20px;
 }
-body .text {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  gap: 32px;
-  flex-direction: row;
-  align-items: center;
+  body .text {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 32px;
+    flex-direction: row;
+    align-items: center;
 }
 body .text ul {
   display: flex;
@@ -53,6 +55,7 @@ body .text ul li {
 body .text ul li a {
   text-decoration: none;
   color: #fff;
+
 }
 
 .home2 img {
