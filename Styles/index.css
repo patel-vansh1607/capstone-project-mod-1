@@ -707,7 +707,7 @@ body .text ul li a {
 
 .container5{
   width: 1200px; 
-  height: 500px;
+  height: 650px;
   opacity: 100; 
   display: flex;  
   margin-left: 65px;
@@ -763,6 +763,7 @@ body .text ul li a {
   height: 32px;
   gap: 24px;
   padding-left: 65px;
+
 }
 
 .iconcon img{
@@ -791,6 +792,7 @@ input[type=text], select, textarea {
   resize: vertical;
   background-color: #1a1a1a;
 }
+
 input[type="text"] {
   color: #a7a7a7;
 }
@@ -817,7 +819,7 @@ input[type="text"] {
   width: 160px;
   height: 26px;
   margin-left:65px;
-  margin-top: 230px;
+  margin-top: 330px;
 }
 
 .contactform a{
@@ -829,6 +831,8 @@ input[type="text"] {
   font-family: "Manrope";
   font-weight: bolder;
   transition: background-color 0.3s ease;
+  position: relative;
+  top: 65px;
 }
 
 .contactform a:hover {
