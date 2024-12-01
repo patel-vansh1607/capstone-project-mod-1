@@ -93,7 +93,7 @@ body {
     margin-left: 595px;
    }
   
-  .moreabt1{
+  .contact-me{
     font-family: "Manrope";
     font-size: 16px;
     font-weight: 700;
@@ -104,12 +104,7 @@ body {
   
   }
   
-  .moreabt1:hover {
+ .contact-me:hover {
     text-decoration: none;
     transform: scale(1.2);
-  }
-  .hr11 {
-    border: 1px solid #484848;
-    width: 100%;
-    margin-top: 350px; 
   }
