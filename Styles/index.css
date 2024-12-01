@@ -2,14 +2,16 @@
 @import url(https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap);
+
 body {
   background-color: #0a0a0a;
   animation: fadeIn 5s;
-  -webkit-animation: fadeIn 5s;
-  -moz-animation: fadeIn 5s;
-  -o-animation: fadeIn 5s;
-  -ms-animation: fadeIn 5s;  /* i have added a fade in to my whole page */
+  -webkit-animation: fadein 5s;
+  -moz-animation: fadein 5s;
+  -o-animation: fadein 5s;
+  -ms-animation: fadein 5s; /* i have added a fade in to my whole page */
 }
+
 body .main {
   padding: 20px 60px 24px 60px;
   color: #fff;
@@ -31,14 +33,16 @@ body .main {
   position: relative;
   top: 20px;
 }
-  body .text {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    gap: 32px;
-    flex-direction: row;
-    align-items: center;
+
+body .text {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 32px;
+  flex-direction: row;
+  align-items: center;
 }
+
 body .text ul {
   display: flex;
   flex-direction: row;
@@ -46,16 +50,17 @@ body .text ul {
   margin: 0;
   align-items: center;
 }
+
 body .text ul li {
   margin-right: 10px;
   list-style: none;
   display: flex;
   align-items: center;
 }
+
 body .text ul li a {
   text-decoration: none;
   color: #fff;
-
 }
 
 .home2 img {
@@ -68,54 +73,57 @@ body .text ul li a {
   float: right;
   position: relative;
 }
-.home2 p{
-    color: #ffffff;
-    width: 544px;
-    height: 20px;
-    font-family: "Bebas Neue";
-    font-weight: 400;
-    font-size: 101px;
-    padding-left: 65px;
-}
-.home2 p2{
-    color: #fff;
-    font-family: "Manrope", sans-serif;
-    padding-left: 65px;
-}
-.home2 p3{
-    color: #fff;
-    font-family: "Manrope", sans-serif;
-    padding-left: 65px;
-}
-.button{
-    padding-top: 45px;
-    padding-left: 65px;
-}
-.contact-me{
-    background-color: #d3e97a;
-    color: #000000;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 30px;
-    cursor: pointer;
-    font-family: "Manrope";
-    font-weight: bold;
-    
+
+.home2 p {
+  color: #fff;
+  width: 544px;
+  height: 20px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 101px;
+  padding-left: 65px;
 }
 
+.home2 p2 {
+  color: #fff;
+  font-family: "Manrope", sans-serif;
+  padding-left: 65px;
+}
+
+.home2 p3 {
+  color: #fff;
+  font-family: "Manrope", sans-serif;
+  padding-left: 65px;
+}
+
+.button {
+  padding-top: 45px;
+  padding-left: 65px;
+}
+
+.contact-me {
+  background-color: #d3e97a;
+  color: #000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-family: "Manrope";
+  font-weight: bold;
+}
 
 .projectsarea p {
-  color: #ffffff;
+  color: #fff;
   width: 464px;
   height: 76px;
   font-family: "Bebas Neue";
   font-weight: 400;
   font-size: 76px;
   padding-left: 65px;
-
 }
-.projectsarea p2{
-  color: #ffffff;
+
+.projectsarea p2 {
+  color: #fff;
   width: 600px;
   height: 54px;
   font-family: "Manrope";
@@ -123,8 +131,9 @@ body .text ul li a {
   font-size: 18px;
   padding-left: 65px;
 }
-.projectsarea p3{
-  color: #ffffff;
+
+.projectsarea p3 {
+  color: #fff;
   width: 600px;
   height: 54px;
   font-family: "Manrope";
@@ -134,17 +143,17 @@ body .text ul li a {
 }
 
 .container1 {
-  width: 1200px; 
+  width: 1200px;
   height: 600px;
-  opacity: 100; 
-  display: flex;  
+  opacity: 100;
+  display: flex;
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-.projectcard1{
+.projectcard1 {
   display: flex;
   background-color: #1a1a1a;
   color: #fff;
@@ -154,36 +163,37 @@ body .text ul li a {
   border-radius: 20px;
   gap: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-
 }
 
 .projectcard1 img {
   align-items: center;
   justify-content: center;
   border-radius: 20px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
-.projectcard1 img:hover{
+
+.projectcard1 img:hover {
   transform: scale(1.1);
 }
-.textdiv1{
+
+.textdiv1 {
   display: flex;
-  flex-direction: column; 
-  align-items: flex-start; 
-  gap: 8px; 
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
 }
 
-.textdiv1 h2{
-  color: #ffffff;
+.textdiv1 h2 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 22px;
   padding-left: 100px;
   margin: 0;
 }
-.textdiv1 h3{
-  color: #ffffff;
+
+.textdiv1 h3 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 19px;
@@ -191,8 +201,7 @@ body .text ul li a {
   text-align: left;
 }
 
-
-.textdiv1 p{
+.textdiv1 p {
   color: #a7a7a7;
   font-family: "Manrope";
   font-weight: 400;
@@ -200,16 +209,18 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
- .textdiv1 hr {
-    color: #484848;
-    border: 1px solid;
-    width: 80%;
-    top: -30px;
-    margin-left: 97px; 
-    margin-right: 5%; 
-    position: relative;
+
+.textdiv1 hr {
+  color: #484848;
+  border: 1px solid;
+  width: 80%;
+  top: -30px;
+  margin-left: 97px;
+  margin-right: 5%;
+  position: relative;
 }
-.textdiv1 p2{
+
+.textdiv1 p2 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -219,7 +230,7 @@ body .text ul li a {
   margin-top: -30px;
 }
 
-.textdiv1 p3{
+.textdiv1 p3 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -233,17 +244,18 @@ body .text ul li a {
   border: 1px solid;
   width: 80%;
   top: 10px;
-  margin-left: 97px; 
+  margin-left: 97px;
   margin-right: 5%;
   position: relative;
   margin-bottom: 30px;
   clear: both;
 }
-.hr2{
-  margin: 35px auto; 
+
+.hr2 {
+  margin: 35px auto;
 }
 
-.textdiv1 p4{
+.textdiv1 p4 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -253,32 +265,31 @@ body .text ul li a {
   margin-top: -50px;
 }
 
-.textdiv1 p5{
+.textdiv1 p5 {
   color: #f1f1f1;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
   padding-left: 360px;
-  
 }
- 
-.livedemobtn{
+
+.livedemobtn {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
   padding-left: 100px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
+
 .livedemobtn:hover {
   text-decoration: none;
   transform: scale(1.2);
 }
 
-.seegithub{
+.seegithub {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 700;
@@ -286,29 +297,31 @@ body .text ul li a {
   gap: 2px;
   padding-left: 230px;
   margin-top: -33px;
-  transition: transform .2s;
+  transition: transform 0.2s;
 }
+
 .seegithub:hover {
   text-decoration: none;
   transform: scale(1.2);
 }
+
 .seegithub img {
   width: 20px;
   height: 20px;
 }
 
 .container2 {
-  width: 1200px; 
+  width: 1200px;
   height: 600px;
-  opacity: 100; 
-  display: flex;  
+  opacity: 100;
+  display: flex;
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-.projectcard2{
+.projectcard2 {
   display: flex;
   background-color: #1a1a1a;
   color: #fff;
@@ -320,28 +333,26 @@ body .text ul li a {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   align-content: center;
   justify-content: center;
-
 }
 
 .projectcard2 img {
   border-radius: 20px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
 
-.projectcard2 img:hover{
+.projectcard2 img:hover {
   transform: scale(1.1);
 }
 
-.textdiv2{
+.textdiv2 {
   display: flex;
-  flex-direction: column; 
-  align-items: flex-start; 
-  gap: 8px; 
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
 }
 
-.textdiv2 h2{
-  color: #ffffff;
+.textdiv2 h2 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 22px;
@@ -349,7 +360,7 @@ body .text ul li a {
   margin: 0;
 }
 
-.textdiv2 p{
+.textdiv2 p {
   color: #a7a7a7;
   font-family: "Manrope";
   font-weight: 400;
@@ -357,24 +368,27 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
-.textdiv2 h3{
-  color: #ffffff;
+
+.textdiv2 h3 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 19px;
   padding-left: 100px;
   text-align: left;
 }
+
 .hr1 {
   color: #484848;
   border: 1px solid;
   width: 80%;
   top: -30px;
-  margin-left: 97px; 
-  margin-right: 5%; 
+  margin-left: 97px;
+  margin-right: 5%;
   position: relative;
 }
-.textdiv2 p2{
+
+.textdiv2 p2 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -384,7 +398,7 @@ body .text ul li a {
   margin-top: -20px;
 }
 
-.textdiv2 p3{
+.textdiv2 p3 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -399,7 +413,7 @@ body .text ul li a {
   border: 1px solid;
   width: 80%;
   top: 10px;
-  margin-left: 97px; 
+  margin-left: 97px;
   margin-right: 5%;
   position: relative;
   margin-bottom: 30px;
@@ -407,7 +421,7 @@ body .text ul li a {
   top: -45px;
 }
 
-.textdiv2 p4{
+.textdiv2 p4 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -416,27 +430,27 @@ body .text ul li a {
   color: #f1f1f1;
   margin-top: -70px;
 }
-.textdiv2 p5{
+
+.textdiv2 p5 {
   color: #f1f1f1;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
   margin-left: 400px;
-  
 }
 
-.hr3{
+.hr3 {
   color: #484848;
   border: 1px solid;
   width: 80%;
   top: -5px;
-  margin-left: 97px; 
-  margin-right: 5%; 
-  position: relative; 
+  margin-left: 97px;
+  margin-right: 5%;
+  position: relative;
 }
 
-.textdiv2 p6{
+.textdiv2 p6 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -446,7 +460,7 @@ body .text ul li a {
   margin-top: -5px;
 }
 
-.textdiv2 p7{
+.textdiv2 p7 {
   color: #f1f1f1;
   font-family: "Manrope";
   font-weight: 500;
@@ -455,14 +469,14 @@ body .text ul li a {
   margin-left: 400px;
 }
 
-.hr4{
+.hr4 {
   color: #484848;
   border: 1px solid;
   width: 80%;
   top: -30px;
-  margin-left: 97px; 
-  margin-right: 5%; 
-  position: relative; 
+  margin-left: 97px;
+  margin-right: 5%;
+  position: relative;
 }
 
 .viewproject {
@@ -472,7 +486,7 @@ body .text ul li a {
   color: #d3e97a;
   gap: 2px;
   padding-left: 100px;
-   transition: transform .2s;
+  transition: transform 0.2s;
 }
 
 .viewproject:hover {
@@ -481,15 +495,16 @@ body .text ul li a {
 }
 
 .container3 {
-  width: 1200px; 
+  width: 1200px;
   height: 600px;
-  opacity: 100; 
-  display: flex;  
+  opacity: 100;
+  display: flex;
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
+
 .projectcard3 {
   display: flex;
   background-color: #1a1a1a;
@@ -500,29 +515,28 @@ body .text ul li a {
   border-radius: 20px;
   gap: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-
 }
 
 .projectcard3 img {
   align-items: center;
   justify-content: center;
   border-radius: 20px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
 
-.projectcard3 img:hover{
+.projectcard3 img:hover {
   transform: scale(1.1);
 }
 
-.textdiv3{
+.textdiv3 {
   display: flex;
-  flex-direction: column; 
-  align-items: flex-start; 
-  gap: 8px; 
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
 }
-.textdiv3 h2{
-  color: #ffffff;
+
+.textdiv3 h2 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 22px;
@@ -530,7 +544,7 @@ body .text ul li a {
   margin: 0;
 }
 
-.textdiv3 p{
+.textdiv3 p {
   color: #a7a7a7;
   font-family: "Manrope";
   font-weight: 400;
@@ -539,8 +553,8 @@ body .text ul li a {
   text-align: left;
 }
 
-.textdiv3 h3{
-  color: #ffffff;
+.textdiv3 h3 {
+  color: #fff;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 19px;
@@ -548,7 +562,7 @@ body .text ul li a {
   text-align: left;
 }
 
-.textdiv3 p2{
+.textdiv3 p2 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -558,7 +572,7 @@ body .text ul li a {
   margin-top: -20px;
 }
 
-.textdiv3 p3{
+.textdiv3 p3 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -573,7 +587,7 @@ body .text ul li a {
   border: 1px solid;
   width: 80%;
   top: 10px;
-  margin-left: 97px; 
+  margin-left: 97px;
   margin-right: 5%;
   position: relative;
   margin-bottom: 30px;
@@ -581,7 +595,7 @@ body .text ul li a {
   top: -40px;
 }
 
-.textdiv3 p4{
+.textdiv3 p4 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
@@ -591,41 +605,41 @@ body .text ul li a {
   margin-top: -70px;
 }
 
-.textdiv3 p5{
+.textdiv3 p5 {
   color: #f1f1f1;
   font-family: "Manrope";
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
   margin-left: 400px;
-  
 }
-.hr3{
+
+.hr3 {
   color: #484848;
   border: 1px solid;
   width: 80%;
   top: -5px;
-  margin-left: 97px; 
-  margin-right: 5%; 
-  position: relative; 
+  margin-left: 97px;
+  margin-right: 5%;
+  position: relative;
 }
 
-.livedemobtn1{
+.livedemobtn1 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
   padding-left: 100px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
 
 .livedemobtn:hover {
   text-decoration: none;
   transform: scale(1.2);
 }
-.seegithub1{
+
+.seegithub1 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 700;
@@ -633,7 +647,7 @@ body .text ul li a {
   gap: 2px;
   padding-left: 230px;
   margin-top: -33px;
-  transition: transform .2s;
+  transition: transform 0.2s;
 }
 
 .seegithub1:hover {
@@ -646,23 +660,24 @@ body .text ul li a {
   height: 20px;
 }
 
-.hr10{
-  border: 1px solid #484848; 
+.hr10 {
+  border: 1px solid #484848;
   width: 100%;
 }
 
-.container4{
-  width: 1200px; 
+.container4 {
+  width: 1200px;
   height: 600px;
-  opacity: 100; 
-  display: flex;  
+  opacity: 100;
+  display: flex;
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
-.p1{
-  color: #ffffff;
+
+.p1 {
+  color: #fff;
   width: 464px;
   height: 76px;
   font-family: "Bebas Neue";
@@ -671,55 +686,57 @@ body .text ul li a {
   padding-left: 65px;
 }
 
-.p2{
+.p2 {
   font-family: "Manrope";
   color: #f1f1f1;
   margin-top: 90px;
   font-size: 32px;
   font-weight: 500;
 }
- .p3{
+
+.p3 {
   font-family: "Manrope";
   color: #c7c7c7;
   margin-top: -400px;
   font-size: 18px;
   font-weight: 500;
   margin-left: 595px;
- }
+}
 
-.moreabt1{
+.moreabt1 {
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
   margin-left: 595px;
-  transition: transform .2s;
-
+  transition: transform 0.2s;
 }
 
 .moreabt1:hover {
   text-decoration: none;
   transform: scale(1.2);
 }
+
 .hr11 {
   border: 1px solid #484848;
   width: 100%;
-  margin-top: 350px; 
+  margin-top: 350px;
 }
 
-.container5{
-  width: 1200px; 
+.container5 {
+  width: 1200px;
   height: 650px;
-  opacity: 100; 
-  display: flex;  
+  opacity: 100;
+  display: flex;
   margin-left: 65px;
   margin-right: auto;
   margin-top: 54px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
-.p20{
-  color: #ffffff;
+
+.p20 {
+  color: #fff;
   width: 464px;
   height: 76px;
   font-family: "Bebas Neue";
@@ -728,54 +745,51 @@ body .text ul li a {
   padding-left: 65px;
 }
 
-.p21{
+.p21 {
   font-family: "Manrope";
   font-weight: 400;
   font-size: 18px;
   color: #c7c7c7;
-  margin-left:65px;
+  margin-left: 65px;
   margin-top: -50px;
-
 }
 
-.p21 a{
+.p21 a {
   text-decoration: underline;
   text-decoration-thickness: 2px;
-  text-decoration-color: #D3E97A;  
+  text-decoration-color: #d3e97a;
   color: #c7c7c7;
 }
- .p22{
+
+.p22 {
   font-family: "Manrope";
   font-weight: 400;
   font-size: 18px;
   color: #c7c7c7;
-  margin-left:65px;
+  margin-left: 65px;
   margin-top: -10px;
- }
+}
 
-
-.p22 a{
+.p22 a {
   text-decoration: underline;
   text-decoration-thickness: 2px;
-  text-decoration-color: #D3E97A;  
+  text-decoration-color: #d3e97a;
   color: #c7c7c7;
 }
 
-.iconcon{
+.iconcon {
   width: 200px;
   height: 32px;
   gap: 24px;
   padding-left: 65px;
-
 }
 
-.iconcon img{
+.iconcon img {
   width: 32px;
   height: 32px;
-
 }
 
-.contactform{
+.contactform {
   width: 600px;
   height: 611px;
   margin-top: 54px;
@@ -783,7 +797,9 @@ body .text ul li a {
   color: #c7c7c7;
 }
 
-input[type=text], select, textarea {
+input[type="text"],
+select,
+textarea {
   width: 600px;
   height: 51px;
   padding: 12px;
@@ -800,8 +816,7 @@ input[type="text"] {
   color: #a7a7a7;
 }
 
-
-#message{
+#message {
   width: 600px;
   height: 156px;
   padding: 12px;
@@ -814,23 +829,23 @@ input[type="text"] {
   background-color: #1a1a1a;
 }
 
-.footer-bottom{
+.footer-bottom {
   color: #a7a7a7;
   font-family: "Manrope";
   font-size: 16px;
   font-weight: 500;
   width: 160px;
   height: 26px;
-  margin-left:65px;
+  margin-left: 65px;
   margin-top: 330px;
 }
 
-.contactform a{
+.contactform a {
   text-decoration: none;
-  color: #1a1a1a; 
+  color: #1a1a1a;
   padding: 10px 20px;
   border-radius: 100px;
-  background-color: #D3E97A;
+  background-color: #d3e97a;
   font-family: "Manrope";
   font-weight: bolder;
   transition: background-color 0.3s ease;
@@ -842,64 +857,72 @@ input[type="text"] {
   background-color: #d0d6b8;
 }
 
-::placeholder{
+::placeholder {
   font-family: "Manrope";
   color: #a7a7a7;
 }
 
-
-
-
-
-
-
-
-
-
 @keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @-ms-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
-/*webkit animation */
+/* webkit animation */
 
 ::-webkit-scrollbar {
   width: 6px;
   border-radius: 7px;
 }
 
-
 ::-webkit-scrollbar-track {
   background: none;
 }
- 
 
 ::-webkit-scrollbar-thumb {
-  background: #d1c6c6; 
+  background: #d1c6c6;
   border-radius: 6px;
 }
 
-
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #555;
 }
