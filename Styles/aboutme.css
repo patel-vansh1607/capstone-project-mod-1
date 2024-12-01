@@ -118,9 +118,18 @@ body {
     width: 1244px; 
     height: 700px;
     opacity: 100; 
-    background-color: #c7c7c7;  
     margin-left: 65px;
     margin-right: auto;
     margin-top: 54px;
     box-sizing: border-box; 
+    position: relative;
+    top: 150px;  
+
+  }
+
+.container2 img{
+    border-radius: 20px;
+    width: 1244px;
+    height: 700px;
+    
   }
