@@ -250,6 +250,7 @@ body .text ul li {
   bottom: 200px;
 
 }
+
 .p34{
   font-family: "Manrope";
   color: #c7c7c7;
@@ -283,5 +284,18 @@ body .text ul li {
   font-size: 18px;
   position: relative;
  top: -44px;
+
+}
+.p37{
+font-weight: 600;
+font-size: 18px;
+color: #d3e97a;
+font-family: "Manrope";
+font-family: "Manrope";
+font-size: 18px;
+font-weight: 500;
+position: relative;
+left: 645px;
+top: -40px;
 
 }
