@@ -53,9 +53,11 @@ body {
     display: flex;
     align-items: center;
   }
-  body .text ul li a {
+.text ul li a {
     text-decoration: none;
     color: #fff;
+    position: relative;
+    right: -600px;
   }
   .container1{
     width: 1200px; 
@@ -153,4 +155,12 @@ body {
     padding-left: 65px;
     position: relative;
     top: 200px;
+  }
+  .container3{
+    width: 600px;
+    height: 241px;
+  }
+  .text{
+    width: 600px;
+    height: 81px;
   }
