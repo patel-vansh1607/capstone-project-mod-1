@@ -133,7 +133,24 @@ body {
     height: 700px;
     
   }
-  .container2{
+  .container3{
     width: 1224px;
     height: 400px;
+    opacity: 100; 
+    display: flex;  
+    margin-left: 65px;
+    margin-right: auto;
+    margin-top: 54px;
+    box-sizing: border-box; 
+  }
+  .p4{
+    color: #ffffff;
+    width: 464px;
+    height: 76px;
+    font-family: "Bebas Neue";
+    font-weight: 400;
+    font-size: 76px;
+    padding-left: 65px;
+    position: relative;
+    top: 200px;
   }
