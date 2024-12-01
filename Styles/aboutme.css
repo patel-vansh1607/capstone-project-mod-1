@@ -97,9 +97,12 @@ body {
     font-family: "Manrope";
     font-size: 16px;
     font-weight: 700;
-    color: #d3e97a;
+    background-color: #d3e97a;
     gap: 2px;
     margin-left: 595px;
+    padding: 15px 15px;
+    border-radius: 30px;
+    border: none;
     transition: transform .2s;
   
   }
