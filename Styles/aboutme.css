@@ -31,6 +31,9 @@ body {
     line-height: 48px;
     letter-spacing: -1;
     margin: 0;
+    position: relative;
+    right: -50px;
+    top: 20px;
   }
   body .text {
     list-style: none;
@@ -39,13 +42,14 @@ body {
     gap: 32px;
     flex-direction: row;
     align-items: center;
-  }
-  body .text ul {
+  } 
+   body .text ul {
     display: flex;
     flex-direction: row;
-    padding: 0;
-    margin: 0;
-    align-items: center;
+    position: relative;
+    left: -600px;
+  
+    
   }
   body .text ul li {
     margin-right: 10px;
@@ -156,11 +160,64 @@ body {
     position: relative;
     top: 200px;
   }
-  .container3{
+  .container4{
     width: 600px;
     height: 241px;
   }
-  .text{
+  .text2 p{
     width: 600px;
     height: 81px;
+    position: relative;
+    top: 270px;
+    right: -120px;
+    color: #c7c7c7;
+    font-family: "Manrope";
+
   }
+
+  .rect1{
+    height: 128px;
+    width: 704px;
+  }
+.sp1 {
+    border: solid 1px #484848;
+    border-radius: 120px;
+    width: 124px;
+    height: 56px;
+    position: relative;
+    top: 320px;
+    right: -120px;
+    color: #c7c7c7;
+    font-family: "Manrope";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sp2{
+  border: solid 1px #484848;
+  border-radius: 120px;
+  width: 124px;
+  height: 56px;
+  position: relative;
+  top: 320px;
+  right: -120px;
+  color: #c7c7c7;
+  font-family: "Manrope";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sp3{
+  border: solid 1px #484848;
+  border-radius: 120px;
+  width: 124px;
+  height: 56px;
+  position: relative;
+  top: 320px;
+  right: -120px;
+  color: #c7c7c7;
+  font-family: "Manrope";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
