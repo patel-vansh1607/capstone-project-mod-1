@@ -377,6 +377,7 @@ top: -40px;
 .contactform {
   float: right;
   position: relative;
+  left: -50px;
   top: -600px;
   width: 600px;
   height: 500px;
@@ -439,6 +440,7 @@ input[type="text"] {
   font-weight: bolder;
   transition: background-color 0.3s ease;
   position: relative;
+  bottom: -20px;
 
 }
 
