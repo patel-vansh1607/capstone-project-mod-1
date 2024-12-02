@@ -20,7 +20,7 @@ body .main {
 }
 
 .text h2 {
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 32px;
   width: 1440px;
@@ -58,6 +58,33 @@ body .text ul li {
   align-items: center;
 }
 
+.contactform a {
+  text-decoration: none;
+  color: #1a1a1a;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background-color: #d3e97a;
+  font-family: "Manrope", sans-serif;
+  font-weight: bolder;
+  transition: background-color 0.3s ease;
+  position: relative;
+  top: 65px;
+}
+
+.p22 a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #d3e97a;
+  color: #c7c7c7;
+}
+
+.p21 a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #d3e97a;
+  color: #c7c7c7;
+}
+
 body .text ul li a {
   text-decoration: none;
   color: #fff;
@@ -78,21 +105,9 @@ body .text ul li a {
   color: #fff;
   width: 544px;
   height: 20px;
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 101px;
-  padding-left: 65px;
-}
-
-.home2 p2 {
-  color: #fff;
-  font-family: "Manrope", sans-serif;
-  padding-left: 65px;
-}
-
-.home2 p3 {
-  color: #fff;
-  font-family: "Manrope", sans-serif;
   padding-left: 65px;
 }
 
@@ -108,7 +123,7 @@ body .text ul li a {
   border: none;
   border-radius: 30px;
   cursor: pointer;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: bold;
 }
 
@@ -116,30 +131,30 @@ body .text ul li a {
   color: #fff;
   width: 464px;
   height: 76px;
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 76px;
   padding-left: 65px;
 }
 
-.projectsarea p2 {
+.p2 {
   color: #fff;
   width: 600px;
   height: 54px;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
   padding-left: 65px;
 }
 
-.projectsarea p3 {
+.p3 {
   color: #fff;
   width: 600px;
   height: 54px;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  padding-left: 65px;
+  padding-left: 65px; 
 }
 
 .container1 {
@@ -172,6 +187,11 @@ body .text ul li a {
   transition: transform 0.2s;
 }
 
+.seegithub img {
+  width: 20px;
+  height: 20px;
+}
+
 .projectcard1 img:hover {
   transform: scale(1.1);
 }
@@ -185,7 +205,7 @@ body .text ul li a {
 
 .textdiv1 h2 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 22px;
   padding-left: 100px;
@@ -194,7 +214,7 @@ body .text ul li a {
 
 .textdiv1 h3 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 19px;
   padding-left: 100px;
@@ -203,7 +223,7 @@ body .text ul li a {
 
 .textdiv1 p {
   color: #a7a7a7;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 10px;
   padding-left: 100px;
@@ -217,29 +237,9 @@ body .text ul li a {
   top: -30px;
   margin-left: 97px;
   margin-right: 5%;
-  position: relative;
 }
 
-.textdiv1 p2 {
-  font-family: "Manrope";
-  font-size: 16px;
-  font-weight: 500;
-  padding-left: 100px;
-  text-align: left;
-  color: #f1f1f1;
-  margin-top: -30px;
-}
-
-.textdiv1 p3 {
-  font-family: "Manrope";
-  font-size: 16px;
-  font-weight: 500;
-  padding-left: 400px;
-  text-align: left;
-  color: #f1f1f1;
-  margin-top: -30px;
-}
-.textdiv1 hr2 {
+.hr2 {
   color: #484848;
   border: 1px solid;
   width: 80%;
@@ -255,19 +255,20 @@ body .text ul li a {
   margin: 35px auto;
 }
 
-.textdiv1 p4 {
-  font-family: "Manrope";
+.p4 {
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
   margin-top: -50px;
+  
 }
 
-.textdiv1 p5 {
+.p5 {
   color: #f1f1f1;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
@@ -275,7 +276,7 @@ body .text ul li a {
 }
 
 .livedemobtn {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -290,7 +291,7 @@ body .text ul li a {
 }
 
 .seegithub {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -303,11 +304,6 @@ body .text ul li a {
 .seegithub:hover {
   text-decoration: none;
   transform: scale(1.2);
-}
-
-.seegithub img {
-  width: 20px;
-  height: 20px;
 }
 
 .container2 {
@@ -353,7 +349,7 @@ body .text ul li a {
 
 .textdiv2 h2 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 22px;
   padding-left: 100px;
@@ -362,7 +358,7 @@ body .text ul li a {
 
 .textdiv2 p {
   color: #a7a7a7;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 10px;
   padding-left: 100px;
@@ -371,7 +367,7 @@ body .text ul li a {
 
 .textdiv2 h3 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 19px;
   padding-left: 100px;
@@ -389,7 +385,7 @@ body .text ul li a {
 }
 
 .textdiv2 p2 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
@@ -399,7 +395,7 @@ body .text ul li a {
 }
 
 .textdiv2 p3 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 400px;
@@ -422,7 +418,7 @@ body .text ul li a {
 }
 
 .textdiv2 p4 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
@@ -433,7 +429,7 @@ body .text ul li a {
 
 .textdiv2 p5 {
   color: #f1f1f1;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
@@ -451,7 +447,7 @@ body .text ul li a {
 }
 
 .textdiv2 p6 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
@@ -462,7 +458,7 @@ body .text ul li a {
 
 .textdiv2 p7 {
   color: #f1f1f1;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
@@ -480,7 +476,7 @@ body .text ul li a {
 }
 
 .viewproject {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -524,6 +520,11 @@ body .text ul li a {
   transition: transform 0.2s;
 }
 
+.iconcon img {
+  width: 32px;
+  height: 32px;
+}
+
 .projectcard3 img:hover {
   transform: scale(1.1);
 }
@@ -537,7 +538,7 @@ body .text ul li a {
 
 .textdiv3 h2 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 22px;
   padding-left: 100px;
@@ -546,7 +547,7 @@ body .text ul li a {
 
 .textdiv3 p {
   color: #a7a7a7;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 11px;
   padding-left: 100px;
@@ -555,7 +556,7 @@ body .text ul li a {
 
 .textdiv3 h3 {
   color: #fff;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 19px;
   padding-left: 100px;
@@ -563,7 +564,7 @@ body .text ul li a {
 }
 
 .textdiv3 p2 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
@@ -573,7 +574,7 @@ body .text ul li a {
 }
 
 .textdiv3 p3 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 400px;
@@ -596,7 +597,7 @@ body .text ul li a {
 }
 
 .textdiv3 p4 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding-left: 100px;
@@ -607,7 +608,7 @@ body .text ul li a {
 
 .textdiv3 p5 {
   color: #f1f1f1;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 16px;
   margin-top: -30px;
@@ -625,7 +626,7 @@ body .text ul li a {
 }
 
 .livedemobtn1 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -640,7 +641,7 @@ body .text ul li a {
 }
 
 .seegithub1 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -680,14 +681,14 @@ body .text ul li a {
   color: #fff;
   width: 464px;
   height: 76px;
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 76px;
   padding-left: 65px;
 }
 
 .p2 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   color: #f1f1f1;
   margin-top: 90px;
   font-size: 32px;
@@ -695,7 +696,7 @@ body .text ul li a {
 }
 
 .p3 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   color: #c7c7c7;
   margin-top: -400px;
   font-size: 18px;
@@ -704,7 +705,7 @@ body .text ul li a {
 }
 
 .moreabt1 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #d3e97a;
@@ -739,14 +740,14 @@ body .text ul li a {
   color: #fff;
   width: 464px;
   height: 76px;
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 76px;
   padding-left: 65px;
 }
 
 .p21 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
   color: #c7c7c7;
@@ -762,19 +763,12 @@ body .text ul li a {
 }
 
 .p22 {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
   color: #c7c7c7;
   margin-left: 65px;
   margin-top: -10px;
-}
-
-.p22 a {
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-decoration-color: #d3e97a;
-  color: #c7c7c7;
 }
 
 .iconcon {
@@ -784,16 +778,11 @@ body .text ul li a {
   padding-left: 65px;
 }
 
-.iconcon img {
-  width: 32px;
-  height: 32px;
-}
-
 .contactform {
   width: 600px;
   height: 611px;
   margin-top: 54px;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   color: #c7c7c7;
 }
 
@@ -831,7 +820,7 @@ input[type="text"] {
 
 .footer-bottom {
   color: #a7a7a7;
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
   width: 160px;
@@ -840,25 +829,12 @@ input[type="text"] {
   margin-top: 330px;
 }
 
-.contactform a {
-  text-decoration: none;
-  color: #1a1a1a;
-  padding: 10px 20px;
-  border-radius: 100px;
-  background-color: #d3e97a;
-  font-family: "Manrope";
-  font-weight: bolder;
-  transition: background-color 0.3s ease;
-  position: relative;
-  top: 65px;
-}
-
 .contactform a:hover {
   background-color: #d0d6b8;
 }
 
 ::placeholder {
-  font-family: "Manrope";
+  font-family: "Manrope", sans-serif;
   color: #a7a7a7;
 }
 
@@ -866,6 +842,7 @@ input[type="text"] {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -875,6 +852,7 @@ input[type="text"] {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -884,6 +862,7 @@ input[type="text"] {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -893,6 +872,7 @@ input[type="text"] {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -902,6 +882,7 @@ input[type="text"] {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -925,4 +906,19 @@ input[type="text"] {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+.hamburger {
+  display: none;
+  cursor: pointer;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  background-color: #fff;
 }
