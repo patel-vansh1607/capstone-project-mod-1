@@ -116,7 +116,23 @@ body .text ul li a {
   padding-top: 45px;
   padding-left: 65px;
 }
+.p111{
+  color: #c7c7c7;
+  font-weight: 400;
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  position: relative;
+  left: 70px;
+}
+.p112{
+  color: #c7c7c7;
+  font-weight: 400;
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  position: relative;
+  left: 70px;
 
+}
 .contact-me {
   background-color: #d3e97a;
   color: #000;
