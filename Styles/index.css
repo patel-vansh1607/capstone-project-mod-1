@@ -256,14 +256,21 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
-
-.textdiv1 hr {
+ .w2{
+  color: #a7a7a7;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  position: relative;
+  left: 100px;
+  top: -30px;
+}
+.textdiv1 .hr2 {
   color: #484848;
   border: 1px solid;
-  width: 80%;
-  top: -30px;
-  margin-left: 97px;
-  margin-right: 5%;
+  position: relative;
+  top: -80px;
 }
 
 .hr2 {
