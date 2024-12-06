@@ -249,7 +249,7 @@ body .text ul li a {
 }
 
 .textdiv1 p {
-  color: #a7a7a7;
+  color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 10px;
@@ -257,7 +257,7 @@ body .text ul li a {
   text-align: left;
 }
  .w2{
-  color: #a7a7a7;
+  color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -267,7 +267,7 @@ body .text ul li a {
   top: -30px;
 }
 .textdiv1 .w3{
-  color: #a7a7a7;
+  color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -276,7 +276,7 @@ body .text ul li a {
   top: -59px;
 }
 .w4{
-  color: #a7a7a7;
+  color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -286,12 +286,12 @@ body .text ul li a {
   top: -80px;
 }
 .textdiv1 .w5{
-  color: #a7a7a7;
+  color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 290px;
+  left: 290px;  
   top: -110px;
 }
 .textdiv1 .hr2 {
@@ -448,7 +448,8 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -20px;
+  position: relative;
+  top: -30px;
 }
 
 .textdiv2 p3 {
@@ -526,10 +527,10 @@ body .text ul li a {
   color: #484848;
   border: 1px solid;
   width: 80%;
-  top: -30px;
   margin-left: 97px;
   margin-right: 5%;
   position: relative;
+  top: 90px;
 }
 
 .viewproject {
@@ -1069,6 +1070,7 @@ input[type="text"] {
     top: 280px;
     left: -105px;
   }
+
 
 
 
