@@ -990,14 +990,21 @@ input[type="text"] {
     align-items: center;
   }
   .projectcard1{
-    width: 600px;
-    height: 877px;
+    width: 500px;
+    height: 500px;
     position: relative;
     top: 300px;
     align-items: center;
   }
   .projectcard1 img{
-    
+    width: 500px;
+    height: 500px;
+  }
+  .textdiv1 h2{
+    font-size: 30px ;
+    position: relative;
+    top: 300px;
+    left: -105px;
   }
 
 
