@@ -266,28 +266,41 @@ body .text ul li a {
   left: 100px;
   top: -30px;
 }
+.textdiv1 .w3{
+  color: #a7a7a7;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  position: relative;
+  left: 400px;
+  top: -59px;
+}
+.w4{
+  color: #a7a7a7;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  position: relative;
+  left: 100px;
+  top: -30px;
+}
+.textdiv1 .w5{
+  color: #a7a7a7;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  position: relative;
+  left: 400px;
+  top: -59px;
+}
 .textdiv1 .hr2 {
   color: #484848;
   border: 1px solid;
   position: relative;
-  top: -80px;
+  top: -60px;
 }
 
-.hr2 {
-  color: #484848;
-  border: 1px solid;
-  width: 80%;
-  top: 10px;
-  margin-left: 97px;
-  margin-right: 5%;
-  position: relative;
-  margin-bottom: 30px;
-  clear: both;
-}
-
-.hr2 {
-  margin: 35px auto;
-}
 
 .p4 {
   font-family: "Manrope", sans-serif;
