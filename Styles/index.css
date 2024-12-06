@@ -1085,13 +1085,17 @@ input[type="text"] {
   }
   .textdiv1 .w4{
     position: relative;
-    top: 253px;
+    top: 243px;
     left: 15px;
   }
-  .
+  .textdiv1 .w5{
+    position: relative;
+    top: 215px;
+    left: 320px;
+  }
   .textdiv1 .hr3{
     position: relative;
-    top: 280px;
+    top: 220px;
     left: -90px;
   }
     
