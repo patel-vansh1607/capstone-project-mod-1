@@ -971,11 +971,17 @@ input[type="text"] {
     top: 250px;
   }
   .projectsarea p{
-    position: relative
-    top: 350px;
+    position: relative;
+    top: 250px;
   }
-
-
+  .projectsarea p2{
+    position: relative;
+    top: 250px;
+  }
+  .projectsarea p3{
+    position: relative;
+    top: 250px;
+  }
   }
 
 
