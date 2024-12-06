@@ -96,13 +96,22 @@ body .text ul li a {
   height: 800px;
   border-radius: 25px;
   margin-right: 20px;
-  top: -130px;
-  right: 56px;
   float: right;
   position: relative;
+  top: -400px;
+  right: 56px;
 }
 
-.home2 p {
+.profilesection .p1 {
+  color: #fff;
+  width: 544px;
+  height: 20px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 101px;
+  padding-left: 65px;
+}
+ .profilesection  .p2 {
   color: #fff;
   width: 544px;
   height: 20px;
@@ -133,6 +142,7 @@ body .text ul li a {
   left: 70px;
 
 }
+
 .contact-me {
   background-color: #d3e97a;
   color: #000;
@@ -154,7 +164,7 @@ body .text ul li a {
   padding-left: 65px;
 }
 
-.p2 {
+.projectsarea p2{
   color: #fff;
   width: 600px;
   height: 54px;
@@ -162,7 +172,7 @@ body .text ul li a {
   font-weight: 400;
   font-size: 18px;
   padding-left: 65px;
-}
+} 
 
 .p3 {
   color: #fff;
@@ -939,3 +949,39 @@ input[type="text"] {
   transition: all 0.3s ease;
   background-color: #fff;
 }
+
+
+@media screen and (max-width: 768px) {
+  .profilesection p{
+    width: 343px;
+    height: 284px;
+  }
+  .home2 .button{
+    position: relative;
+    top: -580px
+  }
+  .home2 img{
+    position: relative;
+    width: 568px;
+    height: 600px;
+    top: 130px;
+  }            
+   .home2 .hrs{
+    position: relative;
+    top: 250px;
+  }
+  .projectsarea p{
+    position: relative
+    top: 350px;
+  }
+
+
+  }
+
+
+
+
+
+
+
+
