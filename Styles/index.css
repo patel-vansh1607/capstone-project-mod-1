@@ -985,13 +985,19 @@ input[type="text"] {
   .container1{
     display: flex;
     flex-direction: column;
-    width: 343px;
+    width: 600px;
     height: 877px;
+    align-items: center;
   }
   .projectcard1{
-    width: 343px;
+    width: 600px;
     height: 877px;
-    position: rel
+    position: relative;
+    top: 300px;
+    align-items: center;
+  }
+  .projectcard1 img{
+    
   }
 
 
