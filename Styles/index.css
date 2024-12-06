@@ -461,7 +461,7 @@ body .text ul li a {
   color: #f1f1f1;
   position: relative;
   top: -59px;
-  left: 300px;
+  left: 230px;
 }
 
 .textdiv .hr2{
@@ -476,7 +476,8 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -70px;
+  position: relative;
+  top: -80px;
 }
 
 .textdiv2 p5 {
@@ -484,28 +485,25 @@ body .text ul li a {
   font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  margin-top: -30px;
-  margin-left: 400px;
-}
-
-.hr3 {
-  color: #484848;
-  border: 1px solid;
-  width: 80%;
-  top: -5px;
-  margin-left: 97px;
-  margin-right: 5%;
   position: relative;
+  top: -110px;
+  left: 390px;
 }
 
+.textdiv2 .hr3{
+  position: relative;
+  top: -110px;
+}
 .textdiv2 p6 {
   font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -5px;
+  position: relative;
+  top: -110px;
+  left: 100px;
+
 }
 
 .textdiv2 p7 {
@@ -514,8 +512,8 @@ body .text ul li a {
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 290px;  
-  top: -25px;
+  left: 280px;  
+  top: -135px;
 }
 
 .hr4 {
@@ -525,7 +523,7 @@ body .text ul li a {
   margin-left: 97px;
   margin-right: 5%;
   position: relative;
-  top: 90px;
+  top: -130px;
 }
 
 .viewproject {
@@ -534,7 +532,9 @@ body .text ul li a {
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
-  padding-left: 100px;
+  position: relative;
+  top: -110px;
+  left: 100px;
   transition: transform 0.2s;
 }
 
@@ -620,20 +620,22 @@ body .text ul li a {
   font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -20px;
+  position: relative;
+  top: -35px;
+  left: 100px;
 }
 
 .textdiv3 p3 {
   font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  padding-left: 400px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -29px;
+  position: relative;
+  top: -65px;
+  left: 430px;
 }
 
 .hr2 {
@@ -657,6 +659,8 @@ body .text ul li a {
   text-align: left;
   color: #f1f1f1;
   margin-top: -70px;
+  position: relative;
+  top: -15px;
 }
 
 .textdiv3 p5 {
