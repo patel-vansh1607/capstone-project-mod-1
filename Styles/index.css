@@ -456,23 +456,17 @@ body .text ul li a {
   font-family: "Manrope", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  padding-left: 400px;
+  padding-left: 100px;
   text-align: left;
   color: #f1f1f1;
-  margin-top: -29px;
+  position: relative;
+  top: -59px;
+  left: 300px;
 }
 
-.hr2 {
-  color: #484848;
-  border: 1px solid;
-  width: 80%;
-  top: 10px;
-  margin-left: 97px;
-  margin-right: 5%;
+.textdiv .hr2{
   position: relative;
-  margin-bottom: 30px;
-  clear: both;
-  top: -45px;
+  top: -200px;
 }
 
 .textdiv2 p4 {
@@ -515,12 +509,13 @@ body .text ul li a {
 }
 
 .textdiv2 p7 {
-  color: #f1f1f1;
+  color: #fff;
   font-family: "Manrope", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
-  margin-top: -30px;
-  margin-left: 400px;
+  position: relative;
+  left: 290px;  
+  top: -25px;
 }
 
 .hr4 {
@@ -558,7 +553,7 @@ body .text ul li a {
   margin-top: 54px;
   box-sizing: border-box;
 }
-
+      
 .projectcard3 {
   display: flex;
   background-color: #1a1a1a;
