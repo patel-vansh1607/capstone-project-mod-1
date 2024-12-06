@@ -853,6 +853,9 @@ body .text ul li a {
   margin-top: 54px;
   font-family: "Manrope", sans-serif;
   color: #c7c7c7;
+  position: relative;
+  left: 90px;
+  top: 30px;
 }
 
 input[type="text"],
