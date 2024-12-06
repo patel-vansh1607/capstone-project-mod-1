@@ -283,7 +283,7 @@ body .text ul li a {
   text-align: left;
   position: relative;
   left: 100px;
-  top: -30px;
+  top: -80px;
 }
 .textdiv1 .w5{
   color: #a7a7a7;
@@ -291,8 +291,8 @@ body .text ul li a {
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 400px;
-  top: -59px;
+  left: 290px;
+  top: -110px;
 }
 .textdiv1 .hr2 {
   color: #484848;
@@ -301,6 +301,12 @@ body .text ul li a {
   top: -60px;
 }
 
+.textdiv1 .hr3 {
+  color: #484848;
+  border: 1px solid;
+  position: relative;
+  top: -100px;
+}
 
 .p4 {
   font-family: "Manrope", sans-serif;
@@ -330,6 +336,8 @@ body .text ul li a {
   gap: 2px;
   padding-left: 100px;
   transition: transform 0.2s;
+  position: relative;
+  top: -100px;
 }
 
 .livedemobtn:hover {
@@ -343,9 +351,11 @@ body .text ul li a {
   font-weight: 700;
   color: #d3e97a;
   gap: 2px;
-  padding-left: 230px;
   margin-top: -33px;
   transition: transform 0.2s;
+  position: relative;
+  top: -100px;
+  left: 230px;
 }
 
 .seegithub:hover {
