@@ -1049,43 +1049,72 @@ input[type="text"] {
     font-size: 30px ;
     position: relative;
     top: 300px;
-    left: -105px;
+    left: -90px;
   }
   .textdiv1 p{
     font-size: 16px;
     position: relative;
     top: 300px;
-    left: -105px;
+    left: -90px;
   }
   .textdiv1 h3{
     font-size: 16px;
     position: relative;
     top: 300px;
-    left: -105px;
+    left: -90px;
   }
   .textdiv1 .hr1{
     position: relative;
     top: 280px;
-    left: -105px;
+    left: -90px;
   }
-  .textdiv1 p2{
+  .textdiv1 .w2{
     position: relative;
-    top: 300px;
-    left: -105px;
+    top: 283px;
+    left: 15px;
+  }
+  .textdiv1 .w3{
+    position: relative;
+    top: 255px;
+    left: 435px;
   }
   .textdiv1 .hr2{
     position: relative;
-    top: 280px;
-    left: -105px;
+    top: 260px;
+    left: -90px;
   }
-
+  .textdiv1 .w4{
+    position: relative;
+    top: 253px;
+    left: 15px;
+  }
+  .
   .textdiv1 .hr3{
     position: relative;
     top: 280px;
-    left: -105px;
+    left: -90px;
   }
+    
 
 
+
+
+
+
+
+
+  .container2{
+    position: relative;
+    top: 2000px;
+  }
+  .projectcard2{
+    position: relative;
+    top: 2000px;
+  }
+  .textdiv2{
+    position: relative;
+    top: 2000px;
+  }
 
 
 
