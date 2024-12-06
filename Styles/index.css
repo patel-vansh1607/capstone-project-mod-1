@@ -1006,6 +1006,40 @@ input[type="text"] {
     top: 300px;
     left: -105px;
   }
+  .textdiv1 p{
+    font-size: 16px;
+    position: relative;
+    top: 300px;
+    left: -105px;
+  }
+  .textdiv1 h3{
+    font-size: 16px;
+    position: relative;
+    top: 300px;
+    left: -105px;
+  }
+  .textdiv1 .hr1{
+    position: relative;
+    top: 280px;
+    left: -105px;
+  }
+  .textdiv1 p2{
+    position: relative;
+    top: 300px;
+    left: -105px;
+  }
+  .textdiv1 .hr2{
+    position: relative;
+    top: 280px;
+    left: -105px;
+  }
+
+  .textdiv1 .hr3{
+    position: relative;
+    top: 280px;
+    left: -105px;
+  }
+
 
 
 
