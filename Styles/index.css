@@ -1098,24 +1098,42 @@ input[type="text"] {
     top: 220px;
     left: -90px;
   }
-    
-
-
-
-
-
-
-
-
+  .livedemobtn{
+    position: relative;
+    top: 220px;
+    left: -90px;
+  }
+  .seegithub{
+    position: relative;
+    top: 220px;
+    left: 160px;
+  } 
   .container2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 600px;
+    width: 200px;
+  }
+  .projectcard2 p{
+    position: relative;
+    top: -2000px;
+  }
+
+
+
+
+
+
+  .container3{
     position: relative;
     top: 2000px;
   }
-  .projectcard2{
+  .projectcard3{
     position: relative;
     top: 2000px;
   }
-  .textdiv2{
+  .textdiv3{
     position: relative;
     top: 2000px;
   }
