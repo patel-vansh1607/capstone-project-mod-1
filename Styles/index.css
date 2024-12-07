@@ -1246,6 +1246,11 @@ input[type="text"] {
   left: -110px;
   top: -40px;
  }
+ .textdiv3 p2{
+  position: relative;
+  top: -40px;
+  left: -10px;
+ }
 
 
 
