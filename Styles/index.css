@@ -1229,14 +1229,33 @@ input[type="text"] {
     left: -110px;
     top: 20px;
   }
- 
+ .textdiv3 p{
+  position: relative;
+  left: -110px;
+  top: -5px;
+  font-size: 20px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .hr10{
     position: relative;
     top: 2000000px;
   }
-.aboutme{
+.container4{
   position: relative;
-  top: 6000px;
+  top: 200000px;
 }
 
 
