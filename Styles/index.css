@@ -1135,23 +1135,60 @@ input[type="text"] {
     top: 50px;
     left: -90px;
   }
-  .textdiv2 h3{{
-    pos
+  .textdiv2 h3{
+    position: relative;
+    left: -90px;
+    top: 60px;
+  }
+  .textdiv2 .hr1{
+    width: 500px;
+    position: relative;
+    left: -85px;
+    top: 9px;
+  }
+  .textdiv2 h3{
+    position: relative;
+    top: 20px;
+    left: -85px;
+  }
+  .textdiv2 .q2{
+    position: relative;
+    top: 10px;
+    left: -85px;
+  }
+  .textdiv2 p3{
+    position: relative;
+    top: 10px;
+    left: -85px;
   }
 
 
 
+
+
+
+
+
+
+  .hr10{
+    position: relative;
+    top: 2000000px;
+  }
+.aboutme{
+  position: relative;
+  top: 6000px;
+}
   .container3{
     position: relative;
-    top: 2000px;
+    top: 4000px;
   }
   .projectcard3{
     position: relative;
-    top: 2000px;
+    top: 4000px;
   }
   .textdiv3{
     position: relative;
-    top: 2000px;
+    top: 4000px;
   }
 
 
