@@ -1213,9 +1213,16 @@ input[type="text"] {
     top: 1100px;  
   }
  .projectcard3{
-  width: 343px;
-  height: 343px;
+  position: relative;
+  left: -30px;
+  width: 580px;
+  height: 580px;
  }
+ .projectcard3 img{
+    width: 550px;
+    height: 550px;
+    align-items: center;
+  }
 
  
   .hr10{
