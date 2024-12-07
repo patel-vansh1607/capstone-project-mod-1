@@ -1242,7 +1242,9 @@ input[type="text"] {
  }
  .textdiv3 .hr1{
   position: relative;
-  width: 200px;
+  width: 600px;
+  left: -110px;
+  top: -40px;
  }
 
 
