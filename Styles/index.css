@@ -1112,16 +1112,32 @@ input[type="text"] {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 600px;
-    width: 200px;
+    top: 500px;
   }
-  .projectcard2 p{
+  .projectcard2{
+    width: 500px;
+    height: 500px;
+  }
+  .projectcard2 img{
+    width: 500px;
+    height: 500px;
+    align-items: center;
+  }
+  .textdiv2 h2{
+    font-size: 30px ;
     position: relative;
-    top: -2000px;
+    top: 50px;
+    left: -90px;
   }
-
-
-
+  .textdiv2 p{
+    font-size: 16px;
+    position: relative;
+    top: 50px;
+    left: -90px;
+  }
+  .textdiv2 h3{{
+    pos
+  }
 
 
 
