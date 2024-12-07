@@ -1177,9 +1177,22 @@ input[type="text"] {
     left: 470px;
     top: -60px;
   }
-
-
-
+  .textdiv2 .hr3{
+    width: 500px;
+    position: relative;
+    left: -85px;
+    top: -60px;
+  }
+  .textdiv2 p6{
+    position: relative;
+    top: -45px;
+    left: 15px;
+  }
+  .textdiv2 p7{
+    position: relative;
+    left: 470px;
+    top: -60px;
+  }
 
 
 
