@@ -1267,6 +1267,11 @@ input[type="text"] {
   left: -110px;
   top: -2px;
 }
+.textdiv3 p5{
+  position: relative;
+  left: 350px;
+  top: -35px;
+}
 .textdiv3 .hr3{
   position: relative;
   width: 550px;
