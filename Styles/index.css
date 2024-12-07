@@ -1234,7 +1234,12 @@ input[type="text"] {
   left: -110px;
   top: -5px;
   font-size: 20px;
-
+ }
+ .textdiv3 h3{
+  position: relative;
+  top: -20px;
+  left: -110px;
+ }
 
 
 
