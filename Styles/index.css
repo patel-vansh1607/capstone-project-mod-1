@@ -1240,7 +1240,10 @@ input[type="text"] {
   top: -20px;
   left: -110px;
  }
-
+ .textdiv3 .hr1{
+  position: relative;
+  width: 200px;
+ }
 
 
 
@@ -1262,7 +1265,14 @@ input[type="text"] {
   position: relative;
   top: 200000px;
 }
-
+.hr11{
+  position: relative;
+  top: 200000px;
+}
+.container5{
+  position: relative;
+  top: 200000px;
+}
 
 
 
