@@ -754,6 +754,7 @@ body .text ul li a {
   font-weight: 400;
   font-size: 76px;
   padding-left: 65px;
+  display: block;
 }
 
 .p2 {
@@ -1209,13 +1210,14 @@ input[type="text"] {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 500px;
+    top: 1100px;  
   }
  .projectcard3{
-  
+  width: 343px;
+  height: 343px;
  }
 
-
+ 
   .hr10{
     position: relative;
     top: 2000000px;
