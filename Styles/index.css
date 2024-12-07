@@ -1223,7 +1223,12 @@ input[type="text"] {
     height: 550px;
     align-items: center;
   }
-
+  .textdiv3 h2{
+    position: relative;
+    font-size: 30px;
+    left: -110px;
+    top: 20px;
+  }
  
   .hr10{
     position: relative;
