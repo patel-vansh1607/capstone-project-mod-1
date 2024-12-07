@@ -1286,6 +1286,14 @@ input[type="text"] {
   position: relative;
   left: 110px;
 }
+.hr10{
+  position: relative;
+  top: 1600px;
+}
+
+.container5{
+  display: none;
+}
 
 
 
@@ -1294,10 +1302,6 @@ input[type="text"] {
 
 
 
-
-
-
-  
 
 
 
