@@ -1290,7 +1290,9 @@ input[type="text"] {
   position: relative;
   top: 1600px;
 }
-
+.container4 .p1, .container4 .p2{
+  display: none;
+}
 .container5{
   display: none;
 }
