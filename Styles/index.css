@@ -1278,34 +1278,26 @@ input[type="text"] {
   left: -110px;
   top: -30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-  .hr10{
-    position: relative;
-    top: 2000000px;
-  }
-.container4{
+.livedemobtn1{
   position: relative;
-  top: 200000px;
+  left: -110px;
 }
-.hr11{
+.seegithub1{
   position: relative;
-  top: 200000px;
-}
-.container5{
-  position: relative;
-  top: 200000px;
+  left: 110px;
 }
 
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
