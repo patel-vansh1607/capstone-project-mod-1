@@ -448,6 +448,7 @@ input[type="text"] {
 @media screen and (max-width: 768px) {
   .container1 .p1{
     position: relative;
+    top: -90px;
   }
 
 
