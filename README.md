@@ -22,7 +22,15 @@
 
 ## Key Features
 
-* My Portfolio
+* My Portfolio.
+* Responsiveness.
+* Has links to my Github, Twitter, Instagram and LinkedIn profiles.
+* Short Introduction, engaging bio with a Photo.
+* Best 3 Projects done so far in Github.
+* A contact section with my Email.
+* 
+
+
 
 ## How To Use
 
