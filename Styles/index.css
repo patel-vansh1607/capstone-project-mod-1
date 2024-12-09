@@ -1341,6 +1341,10 @@ input[type="text"] {
   width: 580px;
   height: 580px;
  }
+.footer-bottom{
+  position: relative;
+  top: 600px;
+  left: 30px;
 
 
 
