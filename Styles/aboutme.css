@@ -489,7 +489,17 @@ input[type="text"] {
     position: relative;
     top: -90px;
   }
-
+  .container3 .head .p4{
+    position: relative;
+    top: -200px;
+    left: -400px;
+  }
+  .container4 .text2 p{
+    position: relative;
+    top: -400px;
+    left: -620px;
+    font-size: 32px;
+  }
 
 
 
