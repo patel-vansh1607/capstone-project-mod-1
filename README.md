@@ -84,9 +84,9 @@ This software uses the following open source packages:
 
 ## Projects Under-Construction...
 
-- [MEDDICAL](https://github.com/patel-vansh1607/MEDDICAL-hospital-website) - A hospital website called "MEDDICAL" making using a Figma Template.Stay in touch with the Github repository link.
+- [MEDDICAL](https://github.com/patel-vansh1607/MEDDICAL-hospital-website) - A hospital website called "MEDDICAL" making using a Figma Template. Stay in touch with the Github repository link.
 
-- [Filtro](https://github.com/patel-vansh1607/filtro-coffee-website) - A coffee website called "Filtro" making using a Figma Template.Stay in touch with the Github repository link.
+- [Filtro](https://github.com/patel-vansh1607/filtro-coffee-website) - A coffee website called "Filtro" making using a Figma Template. Stay in touch with the Github repository link.
 
 - [Login-Page](https://github.com/patel-vansh1607/login-dashboard) - A login dashboard -making using a Figma Template. Stay in touch with the Github repository link.
 
