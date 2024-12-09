@@ -77,8 +77,8 @@ This software uses the following open source packages:
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [CSS-Grid-and-Flexbox](https://github.com/patel-vansh1607/css-grid-and-flexbox) - A website made using CSS-Grid-and-Flexbox
+- [Introduction to my Class teachers and students](https://github.com/patel-vansh1607/adv-css-and-bootstrap) - A website made using bootstrap and css
 
 ## License
 
