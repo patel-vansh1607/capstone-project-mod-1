@@ -467,8 +467,13 @@ input[type="text"] {
     top: -400px; 
     left: 135px;
     font-size: 32px;
-}
-
+  }
+  .button .contact-me{
+    width: 250px;
+    position: relative;
+    top: -350px;
+    left: -450px
+  }
 
 
 
