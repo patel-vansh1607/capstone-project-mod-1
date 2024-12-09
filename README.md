@@ -66,12 +66,7 @@ My Portfolio is an [emailware](https://en.wiktionary.org/wiki/emailware). Meanin
 This software uses the following open source packages:
 
 - [Linters](https://github.com/microverseinc/linters-config)
-- [Images](https://www.figma.com/design/ehQMllNfzw48Tlwwp6fmKy/Portfolio-for-Developers-(Community)?node-id=0-1&node-type=canvas&t=IuN4tbcfqNXWqfb2-0)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Icons](https://www.figma.com/design/ehQMllNfzw48Tlwwp6fmKy/Portfolio-for-Developers-(Community)node-id=0-1&node-type=canvas&t=IuN4tbcfqNXWqfb2-0)
 
 ## Related
 
