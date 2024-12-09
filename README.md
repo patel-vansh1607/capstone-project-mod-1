@@ -38,10 +38,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/patel-vansh1607/capstone-project-mod-1
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd capstone-project-mod-1
 
 # Install dependencies
 $ npm install
