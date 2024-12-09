@@ -68,7 +68,7 @@ This software uses the following open source packages:
 - [Linters](https://github.com/microverseinc/linters-config)
 - [Icons](https://www.figma.com/design/ehQMllNfzw48Tlwwp6fmKy/Portfolio-for-Developers-(Community)node-id=0-1&node-type=canvas&t=IuN4tbcfqNXWqfb2-0)
 
-## Related
+## My Mentor
 
 [Mr Edward Odhiambo](https://github.com/odhiambo-ed) - My Mentor
 
@@ -89,11 +89,6 @@ This software uses the following open source packages:
 
 - [Login-Page](https://github.com/patel-vansh1607/login-dashboard) - A login dashboard -making using a Figma Template. Stay in touch with the Github repository link.
 
-## License
-
-
-
-MIT
 
 ---
 
