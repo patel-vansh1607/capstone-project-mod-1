@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/patel-vansh1607"><img src="./Images/DP/vansh.png" alt="Vansh Patel" width="200" style border-raduis: 200px;></a>
+  <a href="https://github.com/patel-vansh1607"><img src="./Images/DP/vansh.png" alt="Vansh Patel" width="200" ></a>
   <br>
   Markdownify
   <br>
