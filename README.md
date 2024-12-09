@@ -56,7 +56,7 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/patel-vansh1607/capstone-project-mod-1/archive/refs/heads/main.zip) my Github Project from the link above.
+You can [download](https://github.com/patel-vansh1607/capstone-project-mod-1/archive/refs/heads/main.zip) my Github Project from the link.
 ## Emailware
 
 Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
