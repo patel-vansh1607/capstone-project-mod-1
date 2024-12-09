@@ -1303,14 +1303,29 @@ input[type="text"] {
 .container4 .p1, .container4 .p2{
   display: none;
 }
-.aboutme .p3{
+
+.aboutme .p3 {
+  white-space: normal;      
+  word-wrap: break-word;    
+  display: block;           
+  margin: 1em 0;   
+  line-height: 1.5;
   position: relative;
-  top: 1600px;
-  left: -550px;
-  top: 1450px;
-  display: flex;
-  flex-direction: column;
+  text-align: left;
+  top: 950px;
+  left: 50px;
 }
+.aboutme .moreabt1{
+  white-space: normal;      
+  word-wrap: break-word;    
+  display: block;           
+  margin: 1em 0;   
+  line-height: 1.5;
+  position: relative;
+  top: 950px;
+  left: 50px;
+}
+.hr11{}
 .container5{
   display: none;
 }
