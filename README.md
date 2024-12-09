@@ -94,8 +94,8 @@ This software uses the following open source packages:
 
 > GitHub [@patel-vansh1607](https://github.com/patel-vansh1607) &nbsp;&middot;&nbsp;
 > Twitter [@im_v_v_p](https://x.com/im_v_v_p) &nbsp;&middot;&nbsp;
-> Instagram [@amit_merchant](https://www.instagram.com/vannshh.patell/) &nbsp;&middot;&nbsp;
-> Linked-In [@vansh-patel-72650b26a](https://www.linkedin.com/in/vansh-patel-72650b26a/)
-
+> Instagram [@vannshh.patell](https://www.instagram.com/vannshh.patell/) &nbsp;&middot;&nbsp;
+> Linked-In [@vansh-patel-72650b26a](https://www.linkedin.com/in/vansh-patel-72650b26a/) &nbsp;&middot;&nbsp;
+> Email-Me [vanshpatell@proton.me](emailto:vanshpatell@proton.me)
  
 
