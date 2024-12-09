@@ -474,8 +474,21 @@ input[type="text"] {
     top: -350px;
     left: -450px
   }
-
-
+  .container2{ 
+    justify-content: centre;
+    
+  }
+  .container2 img{
+    width: 900px;
+    height: 343px;
+  }
+  .container3{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    position: relative;
+    top: -90px;
+  }
 
 
 
