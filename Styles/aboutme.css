@@ -500,8 +500,12 @@ input[type="text"] {
     left: -620px;
     font-size: 32px;
   }
-
-
+  .skills-container .skill-item{
+    position: relative;
+    top: -20px;
+    left: -600px;
+  }
+  
 
   }
 
