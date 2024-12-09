@@ -797,7 +797,7 @@ body .text ul li a {
 
 .container5 {
   width: 1200px;
-  height: 650px;
+  height: 400px;
   opacity: 100;
   display: flex;
   margin-left: 65px;
@@ -1343,7 +1343,7 @@ input[type="text"] {
 }
 .footer-bottom{
   position: relative;
-  top: 600px;
+  top: 900px;
   left: 30px;
 }
 
