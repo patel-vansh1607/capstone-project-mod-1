@@ -1325,9 +1325,15 @@ input[type="text"] {
   top: 950px;
   left: 50px;
 }
-.hr11{}
+.hr11{
+  position: relative;
+  top: 630px;
+}
 .container5{
-  display: none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 1100px;  
 }
 
 
