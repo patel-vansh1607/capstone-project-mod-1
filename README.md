@@ -93,5 +93,5 @@ This software uses the following open source packages:
 ---
 
 > GitHub [@patel-vansh1607](https://github.com/patel-vansh1607) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Twitter [@amit_merchant](https://twitter.com/amit_merchant) &nbsp;&middot;&nbsp;
 
