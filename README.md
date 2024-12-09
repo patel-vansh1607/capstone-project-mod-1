@@ -28,7 +28,7 @@
 * Short Introduction, engaging bio with a Photo.
 * Best 3 Projects done so far in Github.
 * A contact section with my Email.
-* 
+* Link to my active and professional social accounts.
 
 
 
