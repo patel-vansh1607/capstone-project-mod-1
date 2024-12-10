@@ -444,72 +444,78 @@ input[type="text"] {
   background-color: #d0d6b8;
 }
 
-
 @media screen and (max-width: 768px) {
-  .container1 .p1{
+  .container1 .p1 {
     display: flex;
     align-items: center;
     position: relative;
     top: -90px;
   }
-  .container1 .p2{
+
+  .container1 .p2 {
     position: relative;
     top: -20px;
     left: -465px;
   }
-  .aboutme .p3 {     
-    white-space: normal;    
+
+  .aboutme .p3 {
+    white-space: normal;
     display: block;
     width: 100%;
     margin: 0;
     padding: 0;
     position: relative;
-    top: -400px; 
+    top: -400px;
     left: 135px;
     font-size: 32px;
   }
-  .button .contact-me{
+
+  .button .contact-me {
     width: 250px;
     position: relative;
     top: -350px;
-    left: -450px
+    left: -450px;
   }
-  .container2{ 
+
+  .container2 {
     justify-content: centre;
-    
   }
-  .container2 img{
+
+  .container2 img {
     width: 900px;
     height: 343px;
   }
-  .container3{
+
+  .container3 {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     align-items: center;
     position: relative;
     top: -90px;
   }
-  .container3 .head .p4{
+
+  .container3 .head .p4 {
     position: relative;
     top: -200px;
     left: -400px;
   }
-  .container4 .text2 p{
+
+  .container4 .text2 p {
     position: relative;
     top: -400px;
     left: -620px;
     font-size: 32px;
   }
-  .skills-container .skill-item{
+
+  .skills-container .skill-item {
     position: relative;
     top: -20px;
     left: -600px;
   }
-  .hr34{
-    width: 100px
+
+  .hr34 {
+    width: 100px;
   }
 
-  }
 
-
-
+}
