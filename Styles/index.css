@@ -3,7 +3,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap);
 
-
 body {
   background-color: #0a0a0a;
   animation: fadeIn 5s;
@@ -111,7 +110,8 @@ body .text ul li a {
   font-size: 101px;
   padding-left: 65px;
 }
- .profilesection  .p2 {
+
+.profilesection .p2 {
   color: #fff;
   width: 544px;
   height: 20px;
@@ -125,7 +125,8 @@ body .text ul li a {
   padding-top: 45px;
   padding-left: 65px;
 }
-.p111{
+
+.p111 {
   color: #c7c7c7;
   font-weight: 400;
   font-family: "Manrope", sans-serif;
@@ -133,14 +134,14 @@ body .text ul li a {
   position: relative;
   left: 70px;
 }
-.p112{
+
+.p112 {
   color: #c7c7c7;
   font-weight: 400;
   font-family: "Manrope", sans-serif;
   font-size: 16px;
   position: relative;
   left: 70px;
-
 }
 
 .contact-me {
@@ -164,7 +165,7 @@ body .text ul li a {
   padding-left: 65px;
 }
 
-.projectsarea p2{
+.projectsarea p2 {
   color: #fff;
   width: 600px;
   height: 54px;
@@ -172,7 +173,7 @@ body .text ul li a {
   font-weight: 400;
   font-size: 18px;
   padding-left: 65px;
-} 
+}
 
 .projectsarea p3 {
   color: #fff;
@@ -181,7 +182,7 @@ body .text ul li a {
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  padding-left: 65px; 
+  padding-left: 65px;
 }
 
 .container1 {
@@ -256,7 +257,8 @@ body .text ul li a {
   padding-left: 100px;
   text-align: left;
 }
- .w2{
+
+.w2 {
   color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
@@ -266,7 +268,8 @@ body .text ul li a {
   left: 100px;
   top: -30px;
 }
-.textdiv1 .w3{
+
+.textdiv1 .w3 {
   color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
@@ -275,7 +278,8 @@ body .text ul li a {
   left: 400px;
   top: -59px;
 }
-.w4{
+
+.w4 {
   color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
@@ -285,15 +289,17 @@ body .text ul li a {
   left: 100px;
   top: -80px;
 }
-.textdiv1 .w5{
+
+.textdiv1 .w5 {
   color: #fff;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 290px;  
+  left: 290px;
   top: -110px;
 }
+
 .textdiv1 .hr2 {
   color: #484848;
   border: 1px solid;
@@ -316,7 +322,6 @@ body .text ul li a {
   text-align: left;
   color: #f1f1f1;
   margin-top: -50px;
-  
 }
 
 .p5 {
@@ -464,7 +469,7 @@ body .text ul li a {
   left: 230px;
 }
 
-.textdiv .hr2{
+.textdiv .hr2 {
   position: relative;
   top: -200px;
 }
@@ -490,10 +495,11 @@ body .text ul li a {
   left: 390px;
 }
 
-.textdiv2 .hr3{
+.textdiv2 .hr3 {
   position: relative;
   top: -110px;
 }
+
 .textdiv2 p6 {
   font-family: "Manrope", sans-serif;
   font-size: 16px;
@@ -503,7 +509,6 @@ body .text ul li a {
   position: relative;
   top: -110px;
   left: 100px;
-
 }
 
 .textdiv2 p7 {
@@ -512,7 +517,7 @@ body .text ul li a {
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 280px;  
+  left: 280px;
   top: -135px;
 }
 
@@ -553,7 +558,7 @@ body .text ul li a {
   margin-top: 54px;
   box-sizing: border-box;
 }
-      
+
 .projectcard3 {
   display: flex;
   background-color: #1a1a1a;
@@ -669,7 +674,7 @@ body .text ul li a {
   font-weight: 400;
   font-size: 16px;
   position: relative;
-  left: 280px;  
+  left: 280px;
   top: -45px;
 }
 
@@ -679,8 +684,8 @@ body .text ul li a {
   width: 80%;
   position: relative;
   top: -60px;
-  
 }
+
 .hr3 {
   color: #484848;
   border: 1px solid;
@@ -734,7 +739,6 @@ body .text ul li a {
   width: 100%;
   position: relative;
 }
-
 
 .container4 {
   width: 1200px;
@@ -982,376 +986,426 @@ input[type="text"] {
   background: #555;
 }
 
-.hamburger {
-  display: none;
-  cursor: pointer;
+.hrs {
+  border: 1px solid;
+  color: #484848;
+  width: 100%;
 }
 
-.bar {
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease;
-  background-color: #fff;
-}
 
 
 @media screen and (max-width: 768px) {
-  .profilesection p{
+  .profilesection p {
     width: 343px;
     height: 284px;
   }
-  .home2 .button{
+
+  .home2 .button {
     position: relative;
-    top: -580px
+    top: -580px;
   }
-  .home2 img{
+  .text ul li {
+    display: none;
+  }
+  .home2 img {
     position: relative;
     width: 568px;
     height: 600px;
     top: 130px;
-  }            
-   .home2 .hrs{
+  }
+
+  .home2 .hrs {
     position: relative;
     top: 250px;
   }
-  .projectsarea p{
+
+  .projectsarea p {
     position: relative;
     top: 250px;
   }
-  .projectsarea p2{
+
+  .projectsarea p2 {
     position: relative;
     top: 250px;
   }
-  .projectsarea p3{
+
+  .projectsarea p3 {
     position: relative;
     top: 250px;
   }
-  .container1{
+
+  .container1 {
     display: flex;
     flex-direction: column;
     width: 600px;
     height: 877px;
     align-items: center;
   }
-  .projectcard1{
+
+  .projectcard1 {
     width: 500px;
     height: 500px;
     position: relative;
     top: 300px;
     align-items: center;
   }
-  .projectcard1 img{
+
+  .projectcard1 img {
     width: 500px;
     height: 500px;
   }
-  .textdiv1 h2{
-    font-size: 30px ;
+
+  .textdiv1 h2 {
+    font-size: 30px;
     position: relative;
     top: 300px;
     left: -90px;
   }
-  .textdiv1 p{
+
+  .textdiv1 p {
     font-size: 16px;
     position: relative;
     top: 300px;
     left: -90px;
   }
-  .textdiv1 h3{
+
+  .textdiv1 h3 {
     font-size: 16px;
     position: relative;
     top: 300px;
     left: -90px;
   }
-  .textdiv1 .hr1{
+
+  .textdiv1 .hr1 {
     position: relative;
     top: 280px;
     left: -90px;
   }
-  .textdiv1 .w2{
+
+  .textdiv1 .w2 {
     position: relative;
     top: 283px;
     left: 15px;
   }
-  .textdiv1 .w3{
+
+  .textdiv1 .w3 {
     position: relative;
     top: 255px;
     left: 435px;
   }
-  .textdiv1 .hr2{
+
+  .textdiv1 .hr2 {
     position: relative;
     top: 260px;
     left: -90px;
   }
-  .textdiv1 .w4{
+
+  .textdiv1 .w4 {
     position: relative;
     top: 243px;
     left: 15px;
   }
-  .textdiv1 .w5{
+
+  .textdiv1 .w5 {
     position: relative;
     top: 215px;
     left: 320px;
   }
-  .textdiv1 .hr3{
+
+  .textdiv1 .hr3 {
     position: relative;
     top: 220px;
     left: -90px;
   }
-  .livedemobtn{
+
+  .livedemobtn {
     position: relative;
     top: 220px;
     left: -90px;
   }
-  .seegithub{
+
+  .seegithub {
     position: relative;
     top: 220px;
     left: 160px;
-  } 
-  .container2{
+  }
+
+  .container2 {
     display: flex;
     flex-direction: column;
     position: relative;
     top: 500px;
   }
-  .projectcard2{
+
+  .projectcard2 {
     width: 500px;
     height: 500px;
   }
-  .projectcard2 img{
+
+  .projectcard2 img {
     width: 500px;
     height: 500px;
     align-items: center;
   }
-  .textdiv2 h2{
-    font-size: 30px ;
+
+  .textdiv2 h2 {
+    font-size: 30px;
     position: relative;
     top: 50px;
     left: -90px;
   }
-  .textdiv2 p{
+
+  .textdiv2 p {
     font-size: 16px;
     position: relative;
     top: 50px;
     left: -90px;
   }
-  .textdiv2 h3{
+
+  .textdiv2 h3 {
     position: relative;
     left: -90px;
     top: 60px;
   }
-  .textdiv2 .hr1{
+
+  .textdiv2 .hr1 {
     width: 500px;
     position: relative;
     left: -85px;
     top: 9px;
   }
-  .textdiv2 h3{
+
+  .textdiv2 h3 {
     position: relative;
     top: 20px;
     left: -85px;
   }
-  .textdiv2 .q2{
+
+  .textdiv2 .q2 {
     position: relative;
     top: 10px;
     left: -85px;
   }
-  .textdiv2 p3{
+
+  .textdiv2 p3 {
     position: relative;
     top: -20px;
     left: 320px;
   }
-  .textdiv2 .hr2{
+
+  .textdiv2 .hr2 {
     width: 500px;
     position: relative;
     left: -85px;
     top: -20px;
   }
-  .textdiv2 p4{
+
+  .textdiv2 p4 {
     position: relative;
     top: -35px;
     left: -85px;
   }
-  .textdiv2 .q5{
+
+  .textdiv2 .q5 {
     position: relative;
     left: 470px;
     top: -60px;
   }
-  .textdiv2 .hr3{
+
+  .textdiv2 .hr3 {
     width: 500px;
     position: relative;
     left: -85px;
     top: -60px;
   }
-  .textdiv2 p6{
+
+  .textdiv2 p6 {
     position: relative;
     top: -45px;
     left: 15px;
   }
-  .textdiv2 p7{
+
+  .textdiv2 p7 {
     position: relative;
     left: 360px;
     top: -70px;
   }
-  .textdiv2 .hr4{
+
+  .textdiv2 .hr4 {
     width: 500px;
     position: relative;
     left: -85px;
     top: -60px;
   }
-  .viewproject{
+
+  .viewproject {
     position: relative;
     top: -50px;
     left: 20px;
   }
 
-  .container3{
+  .container3 {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 1100px;  
+    top: 1100px;
   }
- .projectcard3{
-  position: relative;
-  left: -30px;
-  width: 580px;
-  height: 580px;
- }
- .projectcard3 img{
+
+  .projectcard3 {
+    position: relative;
+    left: -30px;
+    width: 580px;
+    height: 580px;
+  }
+
+  .projectcard3 img {
     width: 550px;
     height: 550px;
     align-items: center;
   }
-  .textdiv3 h2{
+
+  .textdiv3 h2 {
     position: relative;
     font-size: 30px;
     left: -110px;
     top: 20px;
   }
- .textdiv3 p{
-  position: relative;
-  left: -110px;
-  top: -5px;
-  font-size: 20px;
- }
- .textdiv3 h3{
-  position: relative;
-  top: -20px;
-  left: -110px;
- }
- .textdiv3 .hr1{
-  position: relative;
-  width: 550px;
-  left: -110px;
-  top: -40px;
- }
- .textdiv3 p2{
-  position: relative;
-  top: -40px;
-  left: -10px;
- }
- .textdiv3 p3{
-  position: relative;
-  top: -65px;
-  left: 450px;
- }
-.textdiv3 .hr2{
-  position: relative;
-  width: 550px;
-  left: -110px;
-  top: -60px;
-}
-.textdiv3 p4{
-  position: relative;
-  left: -110px;
-  top: -2px;
-}
-.textdiv3 p5{
-  position: relative;
-  left: 350px;
-  top: -35px;
-}
-.textdiv3 .hr3{
-  position: relative;
-  width: 550px;
-  left: -110px;
-  top: -30px;
-}
-.livedemobtn1{
-  position: relative;
-  left: -110px;
-}
-.seegithub1{
-  position: relative;
-  left: 110px;
-}
-.hr10{
-  position: relative;
-  top: 1600px;
-}
-.container4{
-  display: flex;
-  flex-direction: column;
-  width: 600px;
-}
-.aboutme{
-  display: flex;
-  flex-direction: column;
-  width: 600px;
-}
-.container4 .p1, .container4 .p2{
-  display: none;
-}
 
-.aboutme .p3 {
-  white-space: normal;      
-  word-wrap: break-word;    
-  display: block;           
-  margin: 1em 0;   
-  line-height: 1.5;
-  position: relative;
-  text-align: left;
-  top: 950px;
-  left: 50px;
-}
-.aboutme .moreabt1{
-  white-space: normal;      
-  word-wrap: break-word;    
-  display: block;           
-  margin: 1em 0;   
-  line-height: 1.5;
-  position: relative;
-  top: 950px;
-  left: 50px;
-}
-.hr11{
-  position: relative;
-  top: 630px;
-}
-.container5{
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  top: 600px;  
-  left: -60px;
-}
- .projectcard5{
-  position: relative;
-  width: 580px;
-  height: 580px;
-}
-.footer-bottom{
-  position: relative;
-  top: 900px;
-  left: 30px;
-}
+  .textdiv3 p {
+    position: relative;
+    left: -110px;
+    top: -5px;
+    font-size: 20px;
+  }
 
+  .textdiv3 h3 {
+    position: relative;
+    top: -20px;
+    left: -110px;
+  }
+
+  .textdiv3 .hr1 {
+    position: relative;
+    width: 550px;
+    left: -110px;
+    top: -40px;
+  }
+
+  .textdiv3 p2 {
+    position: relative;
+    top: -40px;
+    left: -10px;
+  }
+
+  .textdiv3 p3 {
+    position: relative;
+    top: -65px;
+    left: 450px;
+  }
+
+  .textdiv3 .hr2 {
+    position: relative;
+    width: 550px;
+    left: -110px;
+    top: -60px;
+  }
+
+  .textdiv3 p4 {
+    position: relative;
+    left: -110px;
+    top: -2px;
+  }
+
+  .textdiv3 p5 {
+    position: relative;
+    left: 350px;
+    top: -35px;
+  }
+
+  .textdiv3 .hr3 {
+    position: relative;
+    width: 550px;
+    left: -110px;
+    top: -30px;
+  }
+
+  .livedemobtn1 {
+    position: relative;
+    left: -110px;
+  }
+
+  .seegithub1 {
+    position: relative;
+    left: 110px;
+  }
+
+  .hr10 {
+    position: relative;
+    top: 1600px;
+  }
+
+  .container4 {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+  }
+
+  .aboutme {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+  }
+
+  .container4 .p1,
+  .container4 .p2 {
+    display: none;
+  }
+
+  .aboutme .p3 {
+    white-space: normal;
+    word-wrap: break-word;
+    display: block;
+    margin: 1em 0;
+    line-height: 1.5;
+    position: relative;
+    text-align: left;
+    top: 950px;
+    left: 50px;
+  }
+
+  .aboutme .moreabt1 {
+    white-space: normal;
+    word-wrap: break-word;
+    display: block;
+    margin: 1em 0;
+    line-height: 1.5;
+    position: relative;
+    top: 950px;
+    left: 50px;
+  }
+
+  .hr11 {
+    position: relative;
+    top: 630px;
+  }
+
+  .container5 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 600px;
+    left: -60px;
+  }
+
+  .projectcard5 {
+    position: relative;
+    width: 580px;
+    height: 580px;
+  }
+
+  .footer-bottom {
+    position: relative;
+    top: 900px;
+    left: 30px;
+  }
 }
-
-
-
-
-
-
