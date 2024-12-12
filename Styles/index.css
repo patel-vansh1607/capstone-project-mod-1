@@ -578,6 +578,7 @@ body .text ul li a {
   justify-content: center;
   border-radius: 20px;
   transition: transform 0.2s;
+  width: 650px;
 }
 
 .iconcon img {
@@ -1250,12 +1251,6 @@ input[type="text"] {
     left: -30px;
     width: 580px;
     height: 580px;
-  }
-
-  .projectcard3 img {
-    width: 550px;
-    height: 550px;
-    align-items: center;
   }
 
   .textdiv3 h2 {
