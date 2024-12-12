@@ -12,6 +12,72 @@ body {
   -ms-animation: fadein 5s; /* i have added a fade in to my whole page */
 }
 
+.text ul {
+  display: flex;
+  list-style: none;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+.hamburger {
+  display: none;
+  cursor: pointer;
+  position: absolute; /* Position the hamburger */
+  right: 20px; /* Align to the right */
+  top: 20px; /* Adjust top position */
+}
+
+.hamburger span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px;
+  background-color: #333;
+  transition: all 0.3s ease;
+}
+
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .text ul {
+    display: none;
+    position: fixed; /* Change to fixed to prevent the white line */
+    top: 60px;
+    left: 0; /* Ensure it starts from the left edge */
+    right: 0; /* Ensure it extends to the right edge */
+    width: 100%;
+    background: white;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 0; /* Ensure no margins */
+  }
+
+  .text ul.active {
+    display: flex;
+  }
+
+  .text ul li {
+    margin: 16px 0;
+  }
+
+  /* Hamburger animation */
+  .hamburger.active span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .hamburger.active span:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+
+  .hamburger.active span:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+}
+
+
 body .main {
   padding: 20px 60px 24px 60px;
   color: #fff;
