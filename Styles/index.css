@@ -397,6 +397,7 @@ body .text ul li a {
 .projectcard2 img {
   border-radius: 20px;
   transition: transform 0.2s;
+  width: 650px;
 }
 
 .projectcard2 img:hover {
@@ -1140,11 +1141,6 @@ input[type="text"] {
     height: 500px;
   }
 
-  .projectcard2 img {
-    width: 500px;
-    height: 500px;
-    align-items: center;
-  }
 
   .textdiv2 h2 {
     font-size: 30px;
